@@ -1,7 +1,10 @@
 """
 Daily Briefing Email Sender — Multi-Theme Edition
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Receives JSON from Claude Routine, builds themed HTML, sends via Gmail SMTP.
+"""
+Daily Briefing Email Sender — Multi-Theme Edition
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Receives JSON from Claude Routine, builds themed HTML, sends via Resend API.
 
 Design themes (rotates weekly, or set via JSON/env):
   linear   — dark minimal, purple accents (like Linear.app)
@@ -11,9 +14,9 @@ Design themes (rotates weekly, or set via JSON/env):
   framer   — bold gradients, expressive color (like Framer)
 
 Environment variables:
-  GMAIL_ADDRESS       - your Gmail address
-  GMAIL_APP_PASSWORD  - Gmail App Password
-  RECIPIENT_EMAIL     - recipient (defaults to GMAIL_ADDRESS)
+  RESEND_API_KEY      - Resend API key (get from resend.com)
+  SENDER_FROM         - verified sender, e.g. "Kagen AI <briefing@yourdomain.com>"
+  RECIPIENT_EMAIL     - recipient email address
   BRIEFING_JSON       - JSON string from Claude Routine
   DESIGN_THEME        - optional override (linear/vercel/stripe/apple/framer)
 
@@ -31,20 +34,18 @@ Expected JSON from Routine:
 }
 """
 
-import smtplib, os, sys, json
-from email.mime.multipart import MIMEMultipart
-from email.mime.text      import MIMEText
-from datetime             import datetime, date
+import os, sys, json, urllib.request, urllib.error
+from datetime import datetime, date
 
 # ─────────────────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────────────────
 
-GMAIL_ADDRESS      = os.environ.get("GMAIL_ADDRESS")
-GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
-RECIPIENT_EMAIL    = os.environ.get("RECIPIENT_EMAIL", GMAIL_ADDRESS)
-BRIEFING_JSON      = os.environ.get("BRIEFING_JSON")
-ENV_THEME          = os.environ.get("DESIGN_THEME", "").lower()
+RESEND_API_KEY  = os.environ.get("RESEND_API_KEY")
+SENDER_FROM     = os.environ.get("SENDER_FROM", "Daily Briefing <onboarding@resend.dev>")
+RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL")
+BRIEFING_JSON   = os.environ.get("BRIEFING_JSON")
+ENV_THEME       = os.environ.get("DESIGN_THEME", "").lower()
 
 # Weekly rotation — same theme all week, changes every Monday
 WEEKLY_THEMES = ["linear", "vercel", "stripe", "apple", "framer"]
@@ -486,11 +487,7 @@ def save_html(html_body, theme):
 
 
 # ─────────────────────────────────────────────────────────
-# SEND
-# Strategy:
-#   1. Save HTML locally first (briefing survives even if SMTP fails)
-#   2. Try port 587 (STARTTLS) — works on most networks
-#   3. Fallback to port 465 (SMTP_SSL) if 587 is blocked
+# SEND  (via Resend API — works in any cloud/sandbox)
 # ─────────────────────────────────────────────────────────
 
 def send(data, theme):
@@ -500,58 +497,38 @@ def send(data, theme):
     html_body  = build_html(data, theme)
     plain_body = build_plain(data)
 
-    # Always save HTML locally first
+    # Always save HTML locally first so briefing is never lost
     saved_file = save_html(html_body, theme)
 
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
-    msg["From"]    = GMAIL_ADDRESS
-    msg["To"]      = RECIPIENT_EMAIL
-    msg.attach(MIMEText(plain_body, "plain"))
-    msg.attach(MIMEText(html_body,  "html"))
+    payload = json.dumps({
+        "from":    SENDER_FROM,
+        "to":      [RECIPIENT_EMAIL],
+        "subject": subject,
+        "html":    html_body,
+        "text":    plain_body,
+    }).encode("utf-8")
 
-    raw = msg.as_string()
+    req = urllib.request.Request(
+        "https://api.resend.com/emails",
+        data    = payload,
+        headers = {
+            "Authorization": f"Bearer {RESEND_API_KEY}",
+            "Content-Type":  "application/json",
+        },
+        method  = "POST",
+    )
 
-    # ── Try port 587 (STARTTLS) ──────────────────────────
+    print(f"📡 Sending via Resend API → {RECIPIENT_EMAIL}…")
     try:
-        print("📡 Trying SMTP port 587 (STARTTLS)…")
-        with smtplib.SMTP("smtp.gmail.com", 587, timeout=15) as server:
-            server.ehlo()
-            server.starttls()
-            server.ehlo()
-            server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
-            server.sendmail(GMAIL_ADDRESS, RECIPIENT_EMAIL, raw)
-        print(f"✅ Sent via port 587  →  {RECIPIENT_EMAIL}  [{THEMES[theme]['name']} theme]")
-        return saved_file
-
-    except (smtplib.SMTPException, OSError) as err_587:
-        print(f"⚠️  Port 587 failed: {err_587}")
-
-    # ── Fallback: port 465 (SMTP_SSL) ───────────────────
-    try:
-        print("📡 Falling back to SMTP port 465 (SSL)…")
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=15) as server:
-            server.ehlo()
-            server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
-            server.sendmail(GMAIL_ADDRESS, RECIPIENT_EMAIL, raw)
-        print(f"✅ Sent via port 465  →  {RECIPIENT_EMAIL}  [{THEMES[theme]['name']} theme]")
-        return saved_file
-
-    except (smtplib.SMTPException, OSError) as err_465:
-        print(f"❌ Port 465 also failed: {err_465}")
-        print(
-            "\n── SMTP BLOCKED ─────────────────────────────────────\n"
-            "Both port 587 and 465 are unreachable from this environment.\n"
-            "This is a network/sandbox restriction, NOT a code problem.\n\n"
-            "To send the email, run this script locally (outside sandbox):\n"
-            "  export GMAIL_ADDRESS='you@gmail.com'\n"
-            "  export GMAIL_APP_PASSWORD='xxxx xxxx xxxx xxxx'\n"
-            "  export RECIPIENT_EMAIL='recipient@example.com'\n"
-            f"  python3 send_email.py\n\n"
-            f"The HTML briefing has been saved to: {saved_file}\n"
-            "─────────────────────────────────────────────────────"
-        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+        print(f"✅ Sent via Resend  →  {RECIPIENT_EMAIL}  [{THEMES[theme]['name']} theme]  (id: {result.get('id')})")
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8")
+        print(f"❌ Resend API error {e.code}: {body}")
         raise SystemExit(1)
+
+    return saved_file
 
 
 # ─────────────────────────────────────────────────────────
@@ -577,8 +554,11 @@ def resolve_theme(data):
 # ─────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    if not GMAIL_ADDRESS or not GMAIL_APP_PASSWORD:
-        print("❌ Set GMAIL_ADDRESS and GMAIL_APP_PASSWORD")
+    if not RESEND_API_KEY:
+        print("❌ Set RESEND_API_KEY environment variable (get your key at resend.com)")
+        sys.exit(1)
+    if not RECIPIENT_EMAIL:
+        print("❌ Set RECIPIENT_EMAIL environment variable")
         sys.exit(1)
 
     if BRIEFING_JSON:
