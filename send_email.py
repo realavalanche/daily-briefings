@@ -19,6 +19,7 @@ Environment variables:
   RECIPIENT_EMAIL     - recipient email address
   BRIEFING_JSON       - JSON string from Claude Routine
   DESIGN_THEME        - optional override (linear/vercel/stripe/apple/framer)
+  GH_KEY              - GitHub personal access token (Contents: write) for archiving HTML
 
 Expected JSON from Routine:
 {
@@ -46,6 +47,8 @@ SENDER_FROM     = os.environ.get("SENDER_FROM", "Daily Briefing <onboarding@rese
 RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL")
 BRIEFING_JSON   = os.environ.get("BRIEFING_JSON")
 ENV_THEME       = os.environ.get("DESIGN_THEME", "").lower()
+GH_KEY          = os.environ.get("GH_KEY")
+GH_REPO         = "realavalanche/daily-briefings"
 
 # Weekly rotation — same theme all week, changes every Monday
 WEEKLY_THEMES = ["linear", "vercel", "stripe", "apple", "framer"]
@@ -474,6 +477,56 @@ def build_plain(data):
 
 
 # ─────────────────────────────────────────────────────────
+# GITHUB ARCHIVER  (commits HTML to repo if GH_KEY is set)
+# ─────────────────────────────────────────────────────────
+
+def push_to_github(filename, html_body):
+    if not GH_KEY:
+        print("⚠️  GH_KEY not set — skipping GitHub archive")
+        return
+
+    import base64
+    encoded = base64.b64encode(html_body.encode("utf-8")).decode("utf-8")
+    path    = filename  # stored at repo root
+
+    # Check if file already exists (need its SHA to update)
+    check_url = f"https://api.github.com/repos/{GH_REPO}/contents/{path}"
+    check_req = urllib.request.Request(
+        check_url,
+        headers={"Authorization": f"Bearer {GH_KEY}", "Accept": "application/vnd.github+json"},
+    )
+    sha = None
+    try:
+        with urllib.request.urlopen(check_req, timeout=15) as r:
+            sha = json.loads(r.read().decode("utf-8")).get("sha")
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            print(f"⚠️  GitHub check failed ({e.code}) — skipping archive")
+            return
+
+    body = {"message": f"briefing: add {filename}", "content": encoded}
+    if sha:
+        body["sha"] = sha
+
+    put_req = urllib.request.Request(
+        check_url,
+        data    = json.dumps(body).encode("utf-8"),
+        headers = {
+            "Authorization": f"Bearer {GH_KEY}",
+            "Accept":        "application/vnd.github+json",
+            "Content-Type":  "application/json",
+        },
+        method  = "PUT",
+    )
+    try:
+        with urllib.request.urlopen(put_req, timeout=15) as r:
+            result = json.loads(r.read().decode("utf-8"))
+        print(f"📦 Archived to GitHub → {GH_REPO}/{path}")
+    except urllib.error.HTTPError as e:
+        print(f"⚠️  GitHub archive failed ({e.code}): {e.read().decode('utf-8')}")
+
+
+# ─────────────────────────────────────────────────────────
 # HTML SAVER  (always runs so briefing is never lost)
 # ─────────────────────────────────────────────────────────
 
@@ -499,6 +552,7 @@ def send(data, theme):
 
     # Always save HTML locally first so briefing is never lost
     saved_file = save_html(html_body, theme)
+    push_to_github(saved_file, html_body)
 
     payload = json.dumps({
         "from":    SENDER_FROM,
