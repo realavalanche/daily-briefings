@@ -4,7 +4,7 @@ Daily Briefing Email Sender — Multi-Theme Edition
 """
 Daily Briefing Email Sender — Multi-Theme Edition
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Receives JSON from Claude Routine, builds themed HTML, sends via Resend API.
+Receives JSON from Claude Routine, builds themed HTML, sends via Brevo API.
 
 Design themes (rotates weekly, or set via JSON/env):
   linear   — dark minimal, purple accents (like Linear.app)
@@ -14,8 +14,9 @@ Design themes (rotates weekly, or set via JSON/env):
   framer   — bold gradients, expressive color (like Framer)
 
 Environment variables:
-  RESEND_API_KEY      - Resend API key (get from resend.com)
-  SENDER_FROM         - verified sender, e.g. "Kagen AI <briefing@yourdomain.com>"
+  BREVO_API_KEY       - Brevo API key (brevo.com → Settings → API Keys)
+  SENDER_EMAIL        - verified sender email (verify a single address in Brevo — no domain needed)
+  SENDER_NAME         - display name for sender (default: "Kagen AI")
   RECIPIENT_EMAIL     - recipient email address
   BRIEFING_JSON       - JSON string from Claude Routine
   DESIGN_THEME        - optional override (linear/vercel/stripe/apple/framer)
@@ -42,8 +43,9 @@ from datetime import datetime, date
 # CONFIG
 # ─────────────────────────────────────────────────────────
 
-RESEND_API_KEY  = os.environ.get("RESEND_API_KEY")
-SENDER_FROM     = os.environ.get("SENDER_FROM", "Daily Briefing <onboarding@resend.dev>")
+BREVO_API_KEY   = os.environ.get("BREVO_API_KEY")
+SENDER_EMAIL    = os.environ.get("SENDER_EMAIL")
+SENDER_NAME     = os.environ.get("SENDER_NAME", "Kagen AI")
 RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL")
 BRIEFING_JSON   = os.environ.get("BRIEFING_JSON")
 ENV_THEME       = os.environ.get("DESIGN_THEME", "").lower()
@@ -540,7 +542,7 @@ def save_html(html_body, theme):
 
 
 # ─────────────────────────────────────────────────────────
-# SEND  (via Resend API — works in any cloud/sandbox)
+# SEND  (via Brevo API — works in any cloud/sandbox)
 # ─────────────────────────────────────────────────────────
 
 def send(data, theme):
@@ -555,31 +557,32 @@ def send(data, theme):
     push_to_github(saved_file, html_body)
 
     payload = json.dumps({
-        "from":    SENDER_FROM,
-        "to":      [RECIPIENT_EMAIL],
-        "subject": subject,
-        "html":    html_body,
-        "text":    plain_body,
+        "sender":      {"name": SENDER_NAME, "email": SENDER_EMAIL},
+        "to":          [{"email": RECIPIENT_EMAIL}],
+        "subject":     subject,
+        "htmlContent": html_body,
+        "textContent": plain_body,
     }).encode("utf-8")
 
     req = urllib.request.Request(
-        "https://api.resend.com/emails",
+        "https://api.brevo.com/v3/smtp/email",
         data    = payload,
         headers = {
-            "Authorization": f"Bearer {RESEND_API_KEY}",
-            "Content-Type":  "application/json",
+            "api-key":      BREVO_API_KEY,
+            "Content-Type": "application/json",
+            "Accept":       "application/json",
         },
         method  = "POST",
     )
 
-    print(f"📡 Sending via Resend API → {RECIPIENT_EMAIL}…")
+    print(f"📡 Sending via Brevo API → {RECIPIENT_EMAIL}…")
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             result = json.loads(resp.read().decode("utf-8"))
-        print(f"✅ Sent via Resend  →  {RECIPIENT_EMAIL}  [{THEMES[theme]['name']} theme]  (id: {result.get('id')})")
+        print(f"✅ Sent via Brevo  →  {RECIPIENT_EMAIL}  [{THEMES[theme]['name']} theme]  (messageId: {result.get('messageId')})")
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8")
-        print(f"❌ Resend API error {e.code}: {body}")
+        print(f"❌ Brevo API error {e.code}: {body}")
         raise SystemExit(1)
 
     return saved_file
@@ -608,8 +611,11 @@ def resolve_theme(data):
 # ─────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    if not RESEND_API_KEY:
-        print("❌ Set RESEND_API_KEY environment variable (get your key at resend.com)")
+    if not BREVO_API_KEY:
+        print("❌ Set BREVO_API_KEY environment variable (brevo.com → Settings → API Keys)")
+        sys.exit(1)
+    if not SENDER_EMAIL:
+        print("❌ Set SENDER_EMAIL environment variable (verify a single sender address in Brevo)")
         sys.exit(1)
     if not RECIPIENT_EMAIL:
         print("❌ Set RECIPIENT_EMAIL environment variable")
