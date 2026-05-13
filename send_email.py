@@ -1,9 +1,6 @@
 """
 Daily Briefing Email Sender — Multi-Theme Edition
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-"""
-Daily Briefing Email Sender — Multi-Theme Edition
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Receives JSON from Claude Routine, builds themed HTML, sends via Brevo API.
 
 Design themes (rotates weekly, or set via JSON/env):
