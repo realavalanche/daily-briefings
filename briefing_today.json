@@ -1,0 +1,42 @@
+{
+  "design_theme": "apple",
+  "urgent": [
+    "IFB Proposal Deck — ROI slide data received from Visaali; finalize and return before proposal deadline",
+    "Kagen PRISM branding — Akhil flagged app rename + logo swap; SecureSphere and Kagen Eye logos still awaited from Devender"
+  ],
+  "important": [
+    "Strapi Migration Opportunity (catholic.sg) — Mayank sent response to Sebastian at Strapi; follow up to confirm next steps",
+    "Bolton & Menk — Second discovery meeting to be scheduled; Ronnie to arrange 45-min follow-up call per Peter and Abhishek's alignment",
+    "AI Smart Assistant case study — Gary asked to add Palo Alto Networks Smart Assistant to case study tracker; loop in Aditya Gupta",
+    "Solutions Team DL — IT asked to set owner to you; confirm with Zahid once done"
+  ],
+  "meetings": [
+    "11:00 AM — Daily Connect (self)",
+    "12:00 PM — ROW Daily Sales Connect (compulsory — Gary's cabin)",
+    "12:30 PM — Quick Syncup on Tasks with Sekshey Bakhshi & Aditya Gupta",
+    "01:00 PM — Channel Alliances Track Update (Akanksha Mathur)",
+    "02:30 PM — Mahindra Group <> Successive Digital | ChatGPT Apps (Aariz leading)",
+    "04:00 PM — Dr LalPath Labs <> Successive Digital | SecureSphere AI (deck updated this morning)",
+    "04:30 PM — Japan Leads Pipeline Connect + GIS Track Update Weekly (concurrent)",
+    "05:30 PM — Strategy & Solutions Daily Connect",
+    "06:00 PM — Joe - Int (private)"
+  ],
+  "suggested_replies": [
+    "Re: IFB Proposal Deck — Thanks for the ROI data, Visaali. I'll work this into the slide and share the updated deck by EOD. The base case metrics look solid — let's keep the source references tight.",
+    "Re: Kagen Prism — Ready for Demo Videos — App name and logo updated to Kagen PRISM. Devender, can you share the logos for Kagen SecureSphere and Kagen Eye on priority? Will refresh those as soon as I have them.",
+    "Re: Bolton & Menk Meeting Minutes — Agreed, Ronnie — let's not jump to a proposal yet. Go ahead and schedule the 45-min follow-up. Happy to join if useful."
+  ],
+  "pending_followups": [
+    "Bolton & Menk — Discovery proposal on hold; follow-up meeting to be scheduled by Ronnie",
+    "IFB Proposal — ROI slide pending update; Visaali provided base case metrics — action on Siddharth",
+    "Kagen PRISM / SecureSphere / Eye logos — Requested from Devender; no response yet",
+    "FCM Travel <> Successive | Kagen VOICE — Meeting rescheduled to May 15, 12:00 PM; deck updated on SharePoint"
+  ],
+  "new_documents": [
+    "Successive_KagenADD_Portfolio.pptx — updated today on SharePoint (Capability Decks/Kagen ADD)",
+    "Successive and Kagen - Dr Lal Path Labs.pptx — updated today on SharePoint ahead of 4 PM meeting",
+    "Successive and Kagen (Voice) - FCM Travels.pptx — updated today on SharePoint",
+    "KagenADD.pdf + KagenADD_Icon.png/SVG — uploaded by Devender Aggarwal to Drive (Kagen/Kagen ADD folder)",
+    "Group Members list (Sheet) — shared by Akanksha Mathur on Drive today (India Sales / Marketing / Strategy teams)"
+  ]
+}
