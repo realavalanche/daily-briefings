@@ -1,0 +1,46 @@
+{
+  "design_theme": "apple",
+  "urgent": [
+    "Finalize IFB Proposal Deck — ROI data sent by Visaali, review and sign off before client submission",
+    "Follow up with Devender Aggarwal for Kagen SecureSphere and Kagen Eye logos — Akhil flagged this yesterday",
+    "Prepare for Dr LalPath Labs demo today at 4:00 PM IST — SecureSphere AI deck updated on SharePoint this morning"
+  ],
+  "important": [
+    "Review Strapi Migration Opportunity response (catholic.sg) sent by Mayank — you're CC'd, confirm positioning before Sebastian replies",
+    "Bolton & Menk — Ronnie to schedule a second discovery meeting; confirm your availability and nudge if needed",
+    "Confirm DL ownership for solutions team distribution list — Akanksha asked IT (Zahid) to assign you as owner, verify it's done",
+    "FCM Travel <> Kagen VOICE demo rescheduled to Fri May 15 at 12:00 PM IST — confirm readiness with Aariz"
+  ],
+  "meetings": [
+    "11:00 AM IST — Daily Connect (personal recurring)",
+    "12:00 PM IST — ROW Daily Sales Connect (org: Shahrukh) — be ready with deal updates",
+    "12:30 PM IST — Quick Syncup on Tasks with Sekshey Bakhshi & Aditya Gupta (you organised)",
+    "01:00 PM IST — Channel Alliances Track Update (org: Akanksha Mathur)",
+    "02:30 PM IST — Mahindra Group <> Successive Digital | ChatGPT Apps (org: Aariz Khan)",
+    "04:00 PM IST — Dr LalPath Labs <> Successive Digital | SecureSphere AI (org: Aariz Khan)",
+    "04:30 PM IST — Japan Leads Pipeline Connect (optional, org: Shahrukh) + GIS Track Update Weekly (org: Akanksha) — overlapping, prioritise accordingly",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (org: Akanksha Mathur)",
+    "NOTE: Mabuchi S&T 1st Meeting was cancelled by client (Kyoko Horie, Lynked)"
+  ],
+  "suggested_replies": [
+    "Re: IFB Proposal Deck (Visaali) — Thanks for the ROI metrics. The daily transaction volume and error-rate data work well for the slide. Let's use the base-case numbers you've provided. Can you have the updated deck ready by EOD today so we can do a final review before sharing with IFB?",
+    "Re: Kagen Prism — Ready for Demo Videos (Devender) — Thanks for the Kagen ADD and VOICE assets. Still need logos for Kagen SecureSphere and Kagen Eye. Can you share those by noon today?",
+    "Re: Response - Strapi Migration Opportunity (catholic.sg) — Good response, Mayank. Ensure we highlight our WordPress multisite migration track record and the CMS expertise clearly. Sebastian will likely want a call — loop me in when you schedule it."
+  ],
+  "pending_followups": [
+    "IFB Proposal Deck — ROI slide data provided by Visaali, awaiting finalized deck from solutions team before client submission",
+    "Bolton & Menk — Ronnie agreed to schedule a second discovery meeting; no calendar invite received yet",
+    "Kagen SecureSphere & Kagen Eye logos — requested from Devender Aggarwal, still outstanding",
+    "Solutions team DL ownership — Akanksha asked IT to assign owner as Siddharth Pandit; pending IT confirmation from Zahid",
+    "Hakuyosha 1st Meeting — invite received for May 26 via Kyoko Horie (Lynked); confirm attendance with Sekshey and Praveen"
+  ],
+  "new_documents": [
+    "Group Members list (Google Sheets) — shared by Akanksha Mathur today; lists India Sales, Marketing, Strategy & Solutions team members",
+    "Successive and Kagen - Dr Lal Path Labs.pptx — updated on SharePoint (Q2 Proposals) at 3:58 AM IST; prep doc for today's 4 PM demo",
+    "Successive_KagenADD_Portfolio.pptx — updated on SharePoint (Capability Decks/Kagen ADD) at 8:11 AM IST today",
+    "Successive_Burckhardt.pptx — updated on SharePoint (Client-Specific Decks) at 8:11 AM IST today",
+    "Master-presales-tracker.xlsx — updated on SharePoint (Presales) at 7:57 AM IST today; review Japan + ROW pipeline",
+    "AI Product Recommendation.pptx — updated on SharePoint (Commerce/Practice Accelerators) at 7:27 AM IST today",
+    "Kagen ADD & VOICE assets (icons, SVG, PDF) — shared by Devender Aggarwal on Google Drive (Kagen folder) yesterday"
+  ]
+}
