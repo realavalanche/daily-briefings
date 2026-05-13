@@ -1,0 +1,29 @@
+name: Send Daily Briefing
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'briefing_today.json'
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Send briefing email
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_NAME: ${{ secrets.SENDER_NAME }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          GH_KEY: ${{ secrets.GH_KEY }}
+        run: |
+          export BRIEFING_JSON=$(cat briefing_today.json)
+          python3 send_email.py
