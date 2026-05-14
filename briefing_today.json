@@ -1,46 +1,42 @@
 {
-  "design_theme": "apple",
+  "design_theme": "framer",
   "urgent": [
-    "Finalize IFB Proposal Deck — ROI data sent by Visaali, review and sign off before client submission",
-    "Follow up with Devender Aggarwal for Kagen SecureSphere and Kagen Eye logos — Akhil flagged this yesterday",
-    "Prepare for Dr LalPath Labs demo today at 4:00 PM IST — SecureSphere AI deck updated on SharePoint this morning"
+    "Rohan Bharadwaj forwarded SAIB ECL Stress Testing Group B data twice this morning — review before POC Alignment call at 4:30 PM today with ralshamari@saib.com.sa team on Teams",
+    "Strapi publicly disclosed 5 CVEs (CVE-2025-64526, CVE-2026-22599, CVE-2026-22706, CVE-2026-22707, CVE-2026-27886) — assess exposure on active Strapi deployments and Catholic.sg discovery opportunity"
   ],
   "important": [
-    "Review Strapi Migration Opportunity response (catholic.sg) sent by Mayank — you're CC'd, confirm positioning before Sebastian replies",
-    "Bolton & Menk — Ronnie to schedule a second discovery meeting; confirm your availability and nudge if needed",
-    "Confirm DL ownership for solutions team distribution list — Akanksha asked IT (Zahid) to assign you as owner, verify it's done",
-    "FCM Travel <> Kagen VOICE demo rescheduled to Fri May 15 at 12:00 PM IST — confirm readiness with Aariz"
+    "Praveen Bhaskaran (AVP Delivery) waiting on SecureSphere AI staffing plan since Apr 30 — Shalini completed DAST pilot with PlanHub; BLS Medix in progress; send allocation details before EOD",
+    "Bain & Company <> Successive Digital Connect at 11:30 AM — Abhi sent post-meeting summary on printing plate import tech platform; confirm follow-through with Shravya Suresh/Bain",
+    "Catholic.sg discovery call deck assigned to Aditya Gupta — Gary still to share APAC WordPress-to-Strapi migration case studies; chase Gary before EOD",
+    "Master-presales-tracker.xlsx updated on SharePoint this morning (06:36 AM) — review pipeline before 7:30 PM Consolidated Leads Data Review"
   ],
   "meetings": [
-    "11:00 AM IST — Daily Connect (personal recurring)",
-    "12:00 PM IST — ROW Daily Sales Connect (org: Shahrukh) — be ready with deal updates",
-    "12:30 PM IST — Quick Syncup on Tasks with Sekshey Bakhshi & Aditya Gupta (you organised)",
-    "01:00 PM IST — Channel Alliances Track Update (org: Akanksha Mathur)",
-    "02:30 PM IST — Mahindra Group <> Successive Digital | ChatGPT Apps (org: Aariz Khan)",
-    "04:00 PM IST — Dr LalPath Labs <> Successive Digital | SecureSphere AI (org: Aariz Khan)",
-    "04:30 PM IST — Japan Leads Pipeline Connect (optional, org: Shahrukh) + GIS Track Update Weekly (org: Akanksha) — overlapping, prioritise accordingly",
-    "05:30 PM IST — Strategy & Solutions Daily Connect (org: Akanksha Mathur)",
-    "NOTE: Mabuchi S&T 1st Meeting was cancelled by client (Kyoko Horie, Lynked)"
+    "10:30 AM — Daily Connect",
+    "11:30 AM — Bain & Company <> Successive Digital Connect (Gary, Abhi, Shravya Suresh/Bain — Google Meet)",
+    "01:00 PM — Saudi bank - internal connect (Gary, Keval Paun — Google Meet)",
+    "02:00 PM — Interview Block",
+    "03:00 PM — Kagen products (internal review)",
+    "04:30 PM — Stress Testing: POC Alignment (SAIB — Raghad Alshamari, Mazen Bin Khamis, Salem Alajmi et al. — Microsoft Teams)",
+    "05:30 PM — Strategy & Solutions Daily Connect (Akanksha Mathur, Sekshey Bakhshi, Gary, Aditya Gupta)",
+    "07:30 PM — Consolidated Leads Data Review – All Tracks",
+    "09:30 PM — Review Offerings Backlog (Gary, Sid Pandey)"
   ],
   "suggested_replies": [
-    "Re: IFB Proposal Deck (Visaali) — Thanks for the ROI metrics. The daily transaction volume and error-rate data work well for the slide. Let's use the base-case numbers you've provided. Can you have the updated deck ready by EOD today so we can do a final review before sharing with IFB?",
-    "Re: Kagen Prism — Ready for Demo Videos (Devender) — Thanks for the Kagen ADD and VOICE assets. Still need logos for Kagen SecureSphere and Kagen Eye. Can you share those by noon today?",
-    "Re: Response - Strapi Migration Opportunity (catholic.sg) — Good response, Mayank. Ensure we highlight our WordPress multisite migration track record and the CMS expertise clearly. Sebastian will likely want a call — loop me in when you schedule it."
+    "Re: Strapi - Opportunity II Catholic.sg — 'Gary, noted on the APAC case studies. Aditya is on the deck. Will sync with him by EOD on structure — please share the WordPress-to-Strapi migration case studies as soon as ready so we can weave them in before the discovery call.'",
+    "Re: SecureSphere AI | Staffing Plan & Allocation Notice — 'Praveen, appreciate the nudge. Sending the staffing allocation plan by EOD today. Shalini — solid progress on DAST validation; will confirm remaining dependencies in parallel.'",
+    "Re: ECL Stress Testing - POC Data Group B — 'Rohan, received both forwards — reviewing Group B data now before the 4:30 PM alignment call. If there are data gaps or scope demarcation questions, let's flag them live in the meeting.'"
   ],
   "pending_followups": [
-    "IFB Proposal Deck — ROI slide data provided by Visaali, awaiting finalized deck from solutions team before client submission",
-    "Bolton & Menk — Ronnie agreed to schedule a second discovery meeting; no calendar invite received yet",
-    "Kagen SecureSphere & Kagen Eye logos — requested from Devender Aggarwal, still outstanding",
-    "Solutions team DL ownership — Akanksha asked IT to assign owner as Siddharth Pandit; pending IT confirmation from Zahid",
-    "Hakuyosha 1st Meeting — invite received for May 26 via Kyoko Horie (Lynked); confirm attendance with Sekshey and Praveen"
+    "NDA response from Sandeepan Banerjee (Mahindra Holidays) — he committed to reverting by today; follow up if no response by 3 PM IST",
+    "APAC WordPress-to-Strapi migration case studies from Gary — needed urgently for Catholic.sg discovery call deck; Aditya Gupta is waiting",
+    "SecureSphere AI staffing plan — Praveen Bhaskaran (AVP Delivery) has been waiting since Apr 30; submit today",
+    "Successive Pipeline Review rescheduled to tomorrow May 15 at 12:30 PM — confirm with Mark (mbb@tabilife.co.jp), Sushant, Sekshey"
   ],
   "new_documents": [
-    "Group Members list (Google Sheets) — shared by Akanksha Mathur today; lists India Sales, Marketing, Strategy & Solutions team members",
-    "Successive and Kagen - Dr Lal Path Labs.pptx — updated on SharePoint (Q2 Proposals) at 3:58 AM IST; prep doc for today's 4 PM demo",
-    "Successive_KagenADD_Portfolio.pptx — updated on SharePoint (Capability Decks/Kagen ADD) at 8:11 AM IST today",
-    "Successive_Burckhardt.pptx — updated on SharePoint (Client-Specific Decks) at 8:11 AM IST today",
-    "Master-presales-tracker.xlsx — updated on SharePoint (Presales) at 7:57 AM IST today; review Japan + ROW pipeline",
-    "AI Product Recommendation.pptx — updated on SharePoint (Commerce/Practice Accelerators) at 7:27 AM IST today",
-    "Kagen ADD & VOICE assets (icons, SVG, PDF) — shared by Devender Aggarwal on Google Drive (Kagen folder) yesterday"
+    "saib_workflow_v3.html — SAIB Corporate Loan Portfolio Stress Testing end-to-end workflow updated on SharePoint today at 09:40 AM; review before POC Alignment call",
+    "Successive_Kagen x DataVolt.pptx — AI-Native Enterprise deck updated on SharePoint today at 10:08 AM (Q2 Proposals/DataVolt)",
+    "ACC-10_IAM_In-Account_Scanner.pptx — shared by Akanksha Mathur on Google Drive at 06:56 AM; edit access granted",
+    "Mahindra Holidays x Successive Digital - ChatGPT App.pptx — updated on SharePoint today at 07:09 AM (Q2 Proposals/Mahindra Group)",
+    "IFB_GIS_Proposal.pptx — IFB Geospatial Transformation for Service Operations updated on SharePoint at 07:33 AM"
   ]
 }
