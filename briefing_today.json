@@ -1,42 +1,44 @@
 {
-  "design_theme": "framer",
+  "design_theme": "linear",
   "urgent": [
-    "Rohan Bharadwaj forwarded SAIB ECL Stress Testing Group B data twice this morning — review before POC Alignment call at 4:30 PM today with ralshamari@saib.com.sa team on Teams",
-    "Strapi publicly disclosed 5 CVEs (CVE-2025-64526, CVE-2026-22599, CVE-2026-22706, CVE-2026-22707, CVE-2026-27886) — assess exposure on active Strapi deployments and Catholic.sg discovery opportunity"
+    "Reply to ralshamari@saib.com.sa re: Stress Testing POC Alignment — starred direct email received yesterday, SAIB Risk & Data teams awaiting scope confirmation",
+    "Mahindra Holidays NDA — Sandeepan B promised to revert by today (May 15); be ready to respond to legal redlines or push for signature",
+    "TabiLife OCR Demo — Michael Stobo emailed at 02:30 AM confirming Monday May 18, 6–9 PM JST slot; loop in Sushant and Kozo to confirm"
   ],
   "important": [
-    "Praveen Bhaskaran (AVP Delivery) waiting on SecureSphere AI staffing plan since Apr 30 — Shalini completed DAST pilot with PlanHub; BLS Medix in progress; send allocation details before EOD",
-    "Bain & Company <> Successive Digital Connect at 11:30 AM — Abhi sent post-meeting summary on printing plate import tech platform; confirm follow-through with Shravya Suresh/Bain",
-    "Catholic.sg discovery call deck assigned to Aditya Gupta — Gary still to share APAC WordPress-to-Strapi migration case studies; chase Gary before EOD",
-    "Master-presales-tracker.xlsx updated on SharePoint this morning (06:36 AM) — review pipeline before 7:30 PM Consolidated Leads Data Review"
+    "L&T RFQ — Sarfaraj shared updated sheet showing some TQ responses rejected; review with Akhil and decide on revised responses",
+    "SecureSphere AI — Praveen Bhaskaran (AVP Global Delivery) is waiting on the staffing plan; Shalini has updated Phase-1 status but the plan itself is still pending",
+    "Bain & Company meeting summary sent to Shravya Suresh — follow up to establish next steps or a follow-on meeting",
+    "PwC SRE Architecture Deep-Dive confirmed for Monday May 18, 2 PM IST with Shivender Kumar (Director, PwC) and Vijay Tripathi — prep needed"
   ],
   "meetings": [
-    "10:30 AM — Daily Connect",
-    "11:30 AM — Bain & Company <> Successive Digital Connect (Gary, Abhi, Shravya Suresh/Bain — Google Meet)",
-    "01:00 PM — Saudi bank - internal connect (Gary, Keval Paun — Google Meet)",
-    "02:00 PM — Interview Block",
-    "03:00 PM — Kagen products (internal review)",
-    "04:30 PM — Stress Testing: POC Alignment (SAIB — Raghad Alshamari, Mazen Bin Khamis, Salem Alajmi et al. — Microsoft Teams)",
-    "05:30 PM — Strategy & Solutions Daily Connect (Akanksha Mathur, Sekshey Bakhshi, Gary, Aditya Gupta)",
-    "07:30 PM — Consolidated Leads Data Review – All Tracks",
-    "09:30 PM — Review Offerings Backlog (Gary, Sid Pandey)"
+    "10:30 AM IST — Important | Epson SOW discussion (Nishant Tatke, Keval Paun, Sushant Taneja) — Google Meet",
+    "11:30 AM IST — ROW Daily Sales Connect (compulsory, Gary's cabin — deal updates required)",
+    "12:00 PM IST — FCM Travel <> Successive Digital | Kagen VOICE (Aariz Khan / Onika)",
+    "12:30 PM IST — Successive Pipeline Review (TabiLife / MBB, Gary, Sekshey Bakhshi)",
+    "01:30 PM IST — Quick Connect with Naveen Sharma",
+    "02:30 PM IST — CMS Track Weekly (Akanksha Mathur, Gary, Prabal Raghav, Saurabh Mor)",
+    "03:00 PM IST — Commerce Track Weekly (Akanksha, Gary, Naman Gupta, Sekshey Bakhshi)",
+    "05:30 PM IST — Acko <> Successive Digital | Kagen VOICE (Aariz Khan)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (Gary, Akanksha, Sekshey)"
   ],
   "suggested_replies": [
-    "Re: Strapi - Opportunity II Catholic.sg — 'Gary, noted on the APAC case studies. Aditya is on the deck. Will sync with him by EOD on structure — please share the WordPress-to-Strapi migration case studies as soon as ready so we can weave them in before the discovery call.'",
-    "Re: SecureSphere AI | Staffing Plan & Allocation Notice — 'Praveen, appreciate the nudge. Sending the staffing allocation plan by EOD today. Shalini — solid progress on DAST validation; will confirm remaining dependencies in parallel.'",
-    "Re: ECL Stress Testing - POC Data Group B — 'Rohan, received both forwards — reviewing Group B data now before the 4:30 PM alignment call. If there are data gaps or scope demarcation questions, let's flag them live in the meeting.'"
+    "Re: Stress Testing - POC Alignment (SAIB) — Hi Ralshamari, thank you for the detailed note. I've reviewed the scope with the Risk and Data team context you've shared. Happy to align on the POC architecture this week — can we schedule a 30-minute call on Monday or Tuesday? I'll have Keval and Rohan join.",
+    "Re: Mahindra Holidays x Successive Digital — Hi Sandeepan, following up as discussed — please share your legal team's observations on the NDA when ready. We're aligned on the AI discussion points and keen to move to the next step. Let me know if a quick call helps resolve any open items.",
+    "Re: TabiLife OCR Demo — Hi Michael, confirmed from our end for Monday May 18, 6–9 PM JST. Kozo will be presenting; I've looped in Sushant to ensure the pipeline data is current. Looking forward to it."
   ],
   "pending_followups": [
-    "NDA response from Sandeepan Banerjee (Mahindra Holidays) — he committed to reverting by today; follow up if no response by 3 PM IST",
-    "APAC WordPress-to-Strapi migration case studies from Gary — needed urgently for Catholic.sg discovery call deck; Aditya Gupta is waiting",
-    "SecureSphere AI staffing plan — Praveen Bhaskaran (AVP Delivery) has been waiting since Apr 30; submit today",
-    "Successive Pipeline Review rescheduled to tomorrow May 15 at 12:30 PM — confirm with Mark (mbb@tabilife.co.jp), Sushant, Sekshey"
+    "Sabre Partner Application — PCC code from Sabgun/ITC still pending; Dhruv tracking internally — needs a firm deadline push",
+    "L&T RFQ rejected TQ responses — Sarfaraj shared updated sheet on May 14; Siddharth and Akhil to review and prepare revised responses",
+    "SecureSphere AI staffing plan — Praveen Bhaskaran waiting; Shalini has shared Phase-1 progress update but staffing plan not yet submitted",
+    "Kagen ADD Lovable UI — Gary flagged 'Falcon 2.0' label still visible in app; confirm with Rohan/Nimit if the rename to 'Kagen ADD' has been deployed"
   ],
   "new_documents": [
-    "saib_workflow_v3.html — SAIB Corporate Loan Portfolio Stress Testing end-to-end workflow updated on SharePoint today at 09:40 AM; review before POC Alignment call",
-    "Successive_Kagen x DataVolt.pptx — AI-Native Enterprise deck updated on SharePoint today at 10:08 AM (Q2 Proposals/DataVolt)",
-    "ACC-10_IAM_In-Account_Scanner.pptx — shared by Akanksha Mathur on Google Drive at 06:56 AM; edit access granted",
-    "Mahindra Holidays x Successive Digital - ChatGPT App.pptx — updated on SharePoint today at 07:09 AM (Q2 Proposals/Mahindra Group)",
-    "IFB_GIS_Proposal.pptx — IFB Geospatial Transformation for Service Operations updated on SharePoint at 07:33 AM"
+    "Bain & Company __ Successive Digital.pptx — updated in Q2 Proposals on SharePoint (May 14, 4:27 PM IST)",
+    "Master-presales-tracker.xlsx — updated in SD Standard Artefacts Repository on SharePoint (May 14, 4:10 PM IST)",
+    "Catholic.sg CMS Modernization Deck.pptx — updated in Q2 Proposals / Catholic.sg on SharePoint (May 14, 3:12 PM IST)",
+    "Industry_Use_Cases_Library.xlsx — updated in Miscellaneous Archive on SharePoint (May 14, 5:24 PM IST)",
+    "Successive and Kagen (Voice) - ACKO.pptx — updated in Q2 Proposals / ACKO on SharePoint (May 14, 10:46 AM IST)",
+    "saib_workflow_v3.html — updated in SAIB proposal folder on SharePoint (May 14, 9:40 AM IST)"
   ]
 }
