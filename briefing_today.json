@@ -1,39 +1,40 @@
 {
-  "date": "2026-05-18",
-  "design_theme": "apple",
+  "design_theme": "framer",
   "urgent": [
-    "Prepare outputs for Gary's Weekly Reports Review — tonight 7:30 PM IST (mandatory, cameras on, outputs tracked)",
-    "Review SAIL RPA Pricing & Solution Document shared with Sales by Sekshey — confirm Sales has everything they need"
+    "DENSO 1st Meeting at 9:30 AM IST — first client meeting with Kyoko Horie (Lynked Japan) via Zoom — be prepped with context and pitch",
+    "IoT Implementation inquiry from EAPL FMS (Toshiba M40 Molding Machines) — forwarded by Sandeep Dubey, Gary CC’d — new inbound lead needing same-day response"
   ],
   "important": [
-    "Review IFB GIS Proposal on SharePoint — Geospatial Transformation for Service Ops, Q2 2026 proposal (May 15)",
-    "Review CEAT Maintenance Intelligence Platform deck — Q2 proposal uploaded to SharePoint (May 15)",
-    "Action Japan lead shortlist — Sekshey shared this week, confirm outreach plan and next engagement steps",
-    "Follow up with Gaurav Negi on variable pay FY 2024-25 — no response since May 16 email"
+    "Gary requested May asset tracker via Sales Hub — reply with completion status for all S&S offerings by EOD today",
+    "Bain & Company proposal + prototype sent May 18 to Shravya Suresh — follow up if no response by EOD",
+    "HCAH follow-up discussion scheduled May 28 3:00 PM IST — prep deck with Aariz, Naman, Dhruv, and Akhil before week-end",
+    "ITC Hotels NDA from Sabgun Walia (Apr 13) — sign-off still pending, flag with legal"
   ],
   "meetings": [
-    "10:00 AM IST — Nippori Kako 1st Meeting (Zoom | Lynked × Tabilife, Japan prospect)",
-    "11:00 AM IST — Daily Connect",
-    "12:00 PM IST — ROW Daily Sales Connect (Gary's cabin — mandatory, deal updates ready)",
-    "02:00 PM IST — SRE Workshop Follow-up | Deep-Dive into PwC Architecture (Teams | Ish Bhalla + PwC: Shivender Kumar, Vijay Tripathi)",
-    "03:00 PM IST — HCAH × Successive Digital | Kagen VOICE — intro + capabilities overview",
-    "04:30 PM IST — Internal Connect: FCM Travel",
-    "05:30 PM IST — Strategy & Solutions Daily Connect",
-    "07:30 PM IST — Weekly Reports Review — Channel, Commerce, Marketing, Solutions (Gary | mandatory, cameras on)"
+    "9:30 AM — DENSO 1st Meeting (Kyoko Horie / Lynked Japan team via Zoom)",
+    "11:00 AM — Daily Connect",
+    "12:00 PM — ROW Daily Sales Connect (compulsory — Gary's cabin + Google Meet)",
+    "2:00 PM — Interview Block",
+    "5:30 PM — Joe Follow Up",
+    "5:30 PM — Strategy & Solutions Daily Connect (with Akanksha Mathur, Sekshey Bakhshi)"
   ],
   "suggested_replies": [
-    "Re: Weekly Status Report | May 14th — Sekshey, good progress on SAIL RPA and Japan shortlisting. Please ensure Sales has the pricing doc and confirm the timeline for first Japan outreach this week.",
-    "Re: Follow-up on Pending Variable Pay FY 2024-25 — Gaurav, following up on my May 16 note. Can you share a timeline for processing or confirm the current status? Happy to connect if there's a blocker."
+    "Re: IoT Implementation in Toshiba M40 (Sandeep) — Thanks Sandeep, will review the EAPL requirement and loop in Gary. Can you share budget and timeline context? Happy to set up a call this week.",
+    "Re: S&S Practice Weekly Update (Gary) — Gary, using Sales Hub portal for the weekly review view. Will share the May asset completion status by EOD today.",
+    "Re: Bain & Company <> Successive Digital (Shravya) — Hi Shravya, checking in on the proposal and prototype we shared yesterday. Happy to walk you through it on a call — does Thursday work for a quick sync?"
   ],
   "pending_followups": [
-    "Variable pay FY 2024-25 — no response from Gaurav Negi; follow-up sent May 16",
-    "SAIL RPA Pricing & Solution Document — shared with Sales by Sekshey; awaiting Sales team feedback",
-    "Japan leads shortlist — Sekshey to confirm outreach sequencing and first contact plan"
+    "ITC Hotels NDA — Sabgun Walia sent for signature on Apr 13, no sign-off recorded",
+    "Gendelberg Law Final Proposal — uploaded to SharePoint May 18, awaiting feedback from Leonard",
+    "Bain & Company — prototype + commercial proposal sent May 18, response pending from Shravya Suresh",
+    "Yamato 1st Meeting (May 21 9:30 AM IST) — invite updated today by Kyoko Horie, prep materials needed"
   ],
   "new_documents": [
-    "IFB_GIS_Proposal.pptx — Geospatial Transformation for Service Operations, Q2 Proposals on SharePoint (May 15)",
-    "CEAT-Maintenance-Intelligence-Platform.pptx — Kagen.ai-powered Q2 Proposal on SharePoint (May 15)",
-    "ESRI_Accelerators_Decision_Framework.xlsx — GIS AI Accelerators leadership framework, Practice Strategy FY 26-27 on SharePoint (May 15)",
-    "AI_Catalog_Normalizer_Proposal.pptx — Commerce Practice Accelerator, AI-native catalog layer on SharePoint (May 15)"
+    "IFB_GIS_Proposal.pptx — updated on SharePoint (Q2 Proposals/IFB/Deliverables), May 18",
+    "Gendelberg_Final_Proposal.pptx — uploaded to SharePoint (Q2 Proposals/Gendelberg Law), May 18",
+    "Successive and Kagen - HCAH.pptx — updated on SharePoint (Q2 Proposals/HCAH), May 18",
+    "Orbit_Fitness_kagVoice_Case_Study.pptx — added to SharePoint (Kagen Voice), May 18",
+    "Screen Recording (AstroLab OCR demo) — shared by Mohit Dang on Drive, May 18",
+    "ReadyCrew Database (Japan leads tracker) — updated on Drive by Lynked team, May 19"
   ]
 }
