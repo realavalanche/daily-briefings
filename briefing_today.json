@@ -1,11 +1,40 @@
 {
-  "design_theme": "vercel",
+  "design_theme": "stripe",
   "urgent": [
-    "DATA SOURCE UNAVAILABLE \u2014 Gmail/Calendar/Drive/M365 MCP tools require re-authorization in this session; re-run after approving integrations in the web UI"
+    "Bolton & Menck Adobe Workfront proposal call tonight 9:30 PM IST — Peter's 30-min scoping call, proposal due 05/28; come prepared on Workfront + Creative Suite integration scope",
+    "KPMG SBOM On-Prem Capability doc — sent to Deepak Singh yesterday with EOD review request; confirm completion before KPMG follows up"
   ],
-  "important": [],
-  "meetings": [],
-  "suggested_replies": [],
-  "pending_followups": [],
-  "new_documents": []
+  "important": [
+    "SAIB Stress Testing POC — Keval sent prerequisites to Raghad (SAIB) yesterday; await her feedback and confirm next alignment call",
+    "HCAH: Prep demo Tue May 26 5:00 PM IST + follow-up client demo Wed May 27 3:00 PM IST — coordinate with Aariz Khan and Dhruv",
+    "FCM Travel prep demo Tue May 26 11:00 AM IST — coordinate with Aariz Khan and team",
+    "RTIL Dashboard Commercial Discussion Mon May 25 3:30 PM IST — Abhi presenting prototype to Prashant (Finquest)",
+    "Kagen ADD ISO 42001:2023 certification — Gary directed immediate focus; Akanksha Pande to share project plan and timeline",
+    "FDA/Fujidream Airlines PoC — Tabi Life shared proposal (JPY 2.4M, 8 weeks); NDA + SoW signature required before Week 1 kickoff"
+  ],
+  "meetings": [
+    "11:00 AM IST — Daily Connect (recurring)",
+    "1:00 PM IST — Infinite <> Successive Tech placeholder (Teams; Manish Nath, Akhil Sharma, Amit Bhagat — Infinite)",
+    "2:30 PM IST — CMS Track Weekly (Gary, Akanksha Mathur)",
+    "3:00 PM IST — Commerce Track Weekly (Gary, Akanksha Mathur)",
+    "5:30 PM IST — Strategy & Solutions Daily Connect (Sekshey, Akanksha Mathur)",
+    "9:30 PM IST — Bolton & Menck – Adobe Workfront Integration Proposal (Peter, Praveen Bhaskaran, Gagan Dutta, Gaurav Yadav, Ronnie)"
+  ],
+  "suggested_replies": [
+    "Re: Stress Testing – POC Alignment (Raghad, SAIB) — Hi Raghad, Keval has shared the prerequisites for both the HR AI Assistant and Stress Testing. Please review and let us know if anything needs clarification or if you have a preferred date for the next alignment call.",
+    "Re: Bolton & Menck Proposal (Peter) — Confirmed for tonight at 9:30 PM IST. Will come prepared on the Workfront + Creative Suite integration scope. Let me know if there is anything specific you would like me to anchor on during the call.",
+    "Re: Mumbai Metro Opportunity (Mayank) — Thanks for the flag. Aligned with Gary's direction — Archit will lead pre-qualification. I will step in once it is qualified and we are ready to bid."
+  ],
+  "pending_followups": [
+    "ITC Hotels NDA — Sabgun Walia sent NDA on Apr 13 for ChatGPT App discussion; pending Successive signature via Dhruv Mahajan",
+    "TravClan AI use cases — Akshat has not shared Ops team use cases despite multiple follow-ups by Dhruv; needs escalation or closure",
+    "Gendelberg Law AI Legal System — Leonard sent sample docs May 11, Siddharth replied May 13; no client response received since",
+    "Japan pipeline (BELLUNA, TAPP) — CRM follow-ups due May 15 / end-of-May; Sekshey to confirm status and next contact"
+  ],
+  "new_documents": [
+    "JP FDA – PoC Proposal.pptx — uploaded to Drive by Kyoko Horie (Tabi Life); Fujidream Airlines AI Search Assistant PoC proposal, JPY 2.4M fixed fee, 8-week delivery",
+    "Client Replies – Yamato Discovery Questions.xlsx — uploaded by Kyoko Horie (Tabi Life); Yamato client responses to pre-discovery questionnaire",
+    "Kagen Secure brand assets (KagenSecureIcon.png, KagenSecureWhite.png, KagenSecure.ai) — uploaded to Drive by Devender Aggarwal in Kagen Assets folder",
+    "JAPAN CRM Notes Ready Cred DB — updated by Sekshey Bakhshi with Yamato meeting outcome and Japan pipeline status (May 21)"
+  ]
 }
