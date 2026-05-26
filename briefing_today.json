@@ -1,39 +1,40 @@
 {
-  "design_theme": "linear",
+  "design_theme": "vercel",
   "urgent": [
-    "Reply to Akhil re: Kagen SECURE logo — UNREAD msg from yesterday asking to update spelling to 'SECURE' (all caps) in Lovable UI; quick fix, action today",
-    "Review Japan Weekly Status Report from Sekshey Bakhshi — Nippori Kako, Denso & Fuji Dream proposals ready to share; Hakuyosha meeting prep done"
+    "Approve/Decline SharePoint access for Shiva Gaur — KagenADD_SalesDeck request arrived today, decision pending",
+    "Kagen ADD May 31 launch deadline — Gary's 'do or die' mandate active; launch squad daily connect tonight at 9:00 PM IST"
   ],
   "important": [
-    "Gary directed: create per-industry one-pagers using Sapna's Media doc as template — loop in Aditya & Sekshey to execute this week",
-    "Kagen ADD launch by May 31 — collaterals, pitch deck, one-pager & sales scripts urgently needed; launch squad daily connect tonight at 9 PM",
-    "Prep call: HyFun Foods at 11:15 AM today (15 min) — align with Aariz, Gary, Akhil before client-facing call",
-    "PwC SRE POC Scope Walkthrough at 4:30 PM via Teams — stakeholders Shivender Kumar & Vijay Kumar Tripathi (PwC); scope alignment critical"
+    "SAIB Stress Testing POC — prerequisites sent, no response yet from Raghad Alshamari; Keval followed up again today",
+    "NDA with Infinite Computer Solutions pending — Gaurav flagged in today's email to Manish Nath & Akhil Sharma: 'send across the NDA and we can pick one'",
+    "CEAT Proposal meeting at 3:00 PM today — Aditya Gupta and Gaurav Yadav attending; ensure deck is ready",
+    "PwC SRE POC scope walkthrough held yesterday — review action items from Granola notes before follow-up with Ish Bhalla and PwC team"
   ],
   "meetings": [
-    "11:00 AM — Daily Connect (recurring)",
-    "11:15 AM — Prep call: HyFun Foods (Aariz Khan, Gary, Akhil, Deepak, Shalini, Dhruv, Mukesh)",
-    "03:00 PM — MMRC <> Successive Digital (Khushi Puri, Sumit Patil / MMRCL, Mayank G) — note: only 30-min availability; RTIL call overlaps at 3:30",
-    "03:30 PM — RTIL Dashboard Commercial Discussion (Abhi, Prashant / Finquest) — conflicts with MMRC end; flag to Abhi",
-    "04:30 PM — Walkthrough: SRE POC Scope | PwC <> Successive (MS Teams, Ish Bhalla organizer)",
-    "05:00 PM — Website & Mobile App Discussion: InOrbit x Successive (Keval Paun, Ruchita Shahani / InOrbit)",
-    "07:30 PM — Weekly Reports Review (Gary — mandatory, cameras on; all Channel / Commerce / Solutions team)",
-    "09:00 PM — Kagen ADD Launch Squad Daily Connect (Gary, Akhil, Sekshey, Sid Pandey, Mayank G)"
+    "09:30 AM — Hakuyosha 1st Meeting (Zoom with Kyoko Horie / lynked.co.jp — new prospect)",
+    "11:15 AM — Prep call: HyFun Foods (internal with Aariz Khan and team)",
+    "11:30 AM — Dashboard Proposal Discussion (Abhi + Prashant Bokil / FinQuest — RTIL follow-up)",
+    "12:00 PM — Kagen ADD campaign ideation discussion (Akhil, Sekshey, Anshul)",
+    "12:30 PM — Adrianus <> Successive Sync Up (Strapi migration discussion with Catholic.org.sg)",
+    "01:30 PM — Master Tracker + Industry Use Cases Review (Aditya Gupta, Sekshey Bakhshi)",
+    "03:00 PM — CEAT Proposal (Aditya Gupta + Gaurav Yadav)",
+    "04:00 PM — HyFun Foods <> Successive Digital | SecureSphere AI (client-facing demo/intro)",
+    "05:00 PM — Prep Demo: HCAH (internal prep with Aariz, Vishal, Naman, Dhruv)",
+    "05:30 PM — Prep Demo: FCM Travel + Strategy & Solutions Daily Connect (back-to-back)",
+    "09:00 PM — Kagen ADD launch squad daily connect (Gary, Akhil, Sid, Mayank, Sekshey)"
   ],
   "suggested_replies": [
-    "Re: Kagen SECURE logo (Akhil) — Got it. Will update the spelling to 'Kagen SECURE' (SECURE in capitals) in the Lovable UI today. Thanks for the flag.",
-    "Re: Media Organisations to reach Out (Gary) — Understood. Will use Sapna's Media doc as the master template and create per-industry one-pagers. Looping in Aditya and Sekshey to own execution — will share a plan by EOW."
+    "Re: Gaurav <> Akhil connect (to Manish Nath / Infinite) — Thanks Gaurav for the notes summary. Manish/Akhil — aligned on the direction. Will have the NDA reviewed and sent across by EOD today so we can move to next steps.",
+    "Re: Stress Testing POC Alignment (to Raghad @ SAIB) — Hi Raghad, following up on the prerequisites Keval shared on May 21. Please let us know if there are any gaps or clarifications needed. Also happy to hop on a quick call to walk through the technical environment checklist."
   ],
   "pending_followups": [
-    "TAPP (Japan CRM) — client had urgency to finalize by May 2026; follow-up was due May 15 and is now overdue — reach out today",
-    "TAKANO (Japan CRM) — follow-up due by May 31 to maintain relationship; client budget available only from 2027, stay warm",
-    "Adrianus <> Successive Sync Up — tomorrow May 26, 12:30 PM IST with adrianus.sinarta@catholic.org.sg; prep talking points today",
-    "Fuji Dream Airlines (FDA) PoC Proposal — NDA + SoW approval pending before Phase 1 kickoff; PoC timeline: 8 weeks, ¥2.4M fixed cost"
+    "SAIB Stress Testing prerequisites — sent May 21, followed up today, no feedback from Raghad Alshamari yet",
+    "NDA with Infinite Computer Solutions — Gaurav's email flags action; no NDA sent yet from our side",
+    "KPMG SBOM capability document — forwarded to Ish Bhalla (ish.bhalla@successive.in) on May 22, no confirmation of review",
+    "Lovable credits recharge for Successive Digital Space — Zahid acknowledged in March, no final confirmation of activation"
   ],
   "new_documents": [
-    "Kagen ADD Launch Squad – Daily Connect 2026/05/22 Transcript — shared by Gary on Drive (key discussion: proposal strategy, closing blockers, ROI-led pitch approach)",
-    "JP FDA - PoC Proposal.pptx — shared by kyoko.horie@lynked.co.jp on Drive (10-slide PoC proposal for Fuji Dream Airlines; ¥2.4M, 8-week delivery, NDA required)",
-    "ReadyCrew Database — updated today by c@lynked.co.jp on Drive (Japan leads pipeline with 13+ active prospects and CRM data)",
-    "JAPAN CRM Notes Ready Cred DB — updated May 21 by Sekshey Bakhshi on Drive (pipeline tracker: Shimizu BLC, SHISEI, Nippori Kako, DENSO, Yamato)"
+    "'Patent' folder shared by Gaurav Malik (gary@successive.tech) on Drive — contains Kagen-ADD Patent Figures, Figure Writeups, and IDF v2 (shared May 25)",
+    "ReadyCrew Database spreadsheet (Lynked.co.jp) — updated today May 26 with latest leads list for Japan market"
   ]
 }
