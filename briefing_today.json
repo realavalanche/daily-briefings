@@ -1,40 +1,47 @@
 {
-  "design_theme": "vercel",
+  "design_theme": "stripe",
   "urgent": [
-    "Approve/Decline SharePoint access for Shiva Gaur — KagenADD_SalesDeck request arrived today, decision pending",
-    "Kagen ADD May 31 launch deadline — Gary's 'do or die' mandate active; launch squad daily connect tonight at 9:00 PM IST"
+    "Bolton & Menck proposal (Adobe Workfront + Creative Suite) due May 28 — Peter Paul shared slides, Praveen awaiting Gagan's inputs; review and align before EOD today",
+    "Sid's urgent note: No net new logo closed in 9–10 months — Sales & Marketing action required immediately; acknowledge and share your pipeline response",
+    "Approve/Decline Priyanka Ghosh's SharePoint access request for KagenADD_SalesDeck — pending since this morning",
+    "Google Cloud TLS cert action: Trust Google Trust Services Root CAs and ECDSA chains before Jun 15, 2026 — forward to IT/infra team"
   ],
   "important": [
-    "SAIB Stress Testing POC — prerequisites sent, no response yet from Raghad Alshamari; Keval followed up again today",
-    "NDA with Infinite Computer Solutions pending — Gaurav flagged in today's email to Manish Nath & Akhil Sharma: 'send across the NDA and we can pick one'",
-    "CEAT Proposal meeting at 3:00 PM today — Aditya Gupta and Gaurav Yadav attending; ensure deck is ready",
-    "PwC SRE POC scope walkthrough held yesterday — review action items from Granola notes before follow-up with Ish Bhalla and PwC team"
+    "Saint Gobain VR Interior Experience Discussion at 11:00 AM IST — RSVP still tentative; confirm attendance and prep with Aariz/Sekshey before call",
+    "HCAH Follow-up Discussion at 3:00 PM IST with Akshat — demo and use case discussion; ensure Naman's prompt review at 1:00 PM feeds into this",
+    "Kagen ADD launch squad: full collateral suite due by May 31 — brochure, deck, video, LinkedIn content; daily connect at 9:30 PM IST tonight",
+    "KagenADD_FAQ task assigned by Sekshey in SharePoint — review and act on added questions before next client interaction",
+    "Finquest (Prashant) — commercial proposal and deck sent May 25–26; high-value deal, follow up today for response"
   ],
   "meetings": [
-    "09:30 AM — Hakuyosha 1st Meeting (Zoom with Kyoko Horie / lynked.co.jp — new prospect)",
-    "11:15 AM — Prep call: HyFun Foods (internal with Aariz Khan and team)",
-    "11:30 AM — Dashboard Proposal Discussion (Abhi + Prashant Bokil / FinQuest — RTIL follow-up)",
-    "12:00 PM — Kagen ADD campaign ideation discussion (Akhil, Sekshey, Anshul)",
-    "12:30 PM — Adrianus <> Successive Sync Up (Strapi migration discussion with Catholic.org.sg)",
-    "01:30 PM — Master Tracker + Industry Use Cases Review (Aditya Gupta, Sekshey Bakhshi)",
-    "03:00 PM — CEAT Proposal (Aditya Gupta + Gaurav Yadav)",
-    "04:00 PM — HyFun Foods <> Successive Digital | SecureSphere AI (client-facing demo/intro)",
-    "05:00 PM — Prep Demo: HCAH (internal prep with Aariz, Vishal, Naman, Dhruv)",
-    "05:30 PM — Prep Demo: FCM Travel + Strategy & Solutions Daily Connect (back-to-back)",
-    "09:00 PM — Kagen ADD launch squad daily connect (Gary, Akhil, Sid, Mayank, Sekshey)"
+    "11:00 AM IST — Saint Gobain <> Successive Digital | VR Interior Experience Discussion (Ramya Muthusamy, Vignesh; with Sekshey, Gary, Aariz, Naveen)",
+    "12:00 PM IST — MMRC <> Successive Digital (Sumit Patil, MMRC; with Khushi Puri, Mayank Gubrele)",
+    "01:00 PM IST — HCAH Prompt Review (with Naman Gupta — internal pre-call prep)",
+    "03:00 PM IST — HCAH <> Successive Digital | Follow-up Discussion (with Akshat — use case demo and next steps)",
+    "04:00 PM IST — FCM Travel <> Successive Digital | Follow-up Discussion (with Onika — use case demo and next steps)",
+    "04:30 PM IST — Japan Leads Pipeline Connect (with Sekshey Bakhshi, Mohd. Shahrukh)",
+    "04:30 PM IST — GIS Track Update Weekly (with Gary, Akanksha Mathur, Visaali)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (with Sekshey, Akanksha, Aditya Gupta)",
+    "09:30 PM IST — Kagen ADD Launch Squad Daily Connect (with Gary, Akhil, Sid, Mayank, Sekshey)"
   ],
   "suggested_replies": [
-    "Re: Gaurav <> Akhil connect (to Manish Nath / Infinite) — Thanks Gaurav for the notes summary. Manish/Akhil — aligned on the direction. Will have the NDA reviewed and sent across by EOD today so we can move to next steps.",
-    "Re: Stress Testing POC Alignment (to Raghad @ SAIB) — Hi Raghad, following up on the prerequisites Keval shared on May 21. Please let us know if there are any gaps or clarifications needed. Also happy to hop on a quick call to walk through the technical environment checklist."
+    "Re: Urgent Focus Required on Net New Logo Closures — Noted and agreed. Here are the 3 accounts closest to close in my view: [list Finquest, Bolton & Menck, Hakuyosha]. Will prioritise these this week and share a status update by Friday.",
+    "Re: Bolton & Menck Proposal (Adobe Workfront) — Gagan, please share your inputs by 3 PM today so we can finalize the deck before the May 28 deadline. Peter, I'll review and add commercial framing by EOD.",
+    "Re: Fw: UTILITY COST (Finquest/Prashant) — Hi Prashant, following up on the proposal and deck we shared. Happy to walk you through the platform in a quick call this week — let me know a convenient time.",
+    "Re: Priyanka Ghosh SharePoint Access Request — Approving access to KagenADD_SalesDeck for Priyanka. Please ensure she has the context on current version and any NDA requirements before sharing externally."
   ],
   "pending_followups": [
-    "SAIB Stress Testing prerequisites — sent May 21, followed up today, no feedback from Raghad Alshamari yet",
-    "NDA with Infinite Computer Solutions — Gaurav's email flags action; no NDA sent yet from our side",
-    "KPMG SBOM capability document — forwarded to Ish Bhalla (ish.bhalla@successive.in) on May 22, no confirmation of review",
-    "Lovable credits recharge for Successive Digital Space — Zahid acknowledged in March, no final confirmation of activation"
+    "Finquest (Reid & Taylor / RTIL) — commercial proposal (₹4.5L one-time) + presentation deck sent May 25–26; no response yet from Prashant Bokil",
+    "Hakuyosha (Japan) — selection process starts mid-June, project kick-off mid-July; client discovery questions submitted, awaiting full responses",
+    "Takazono (Japan/Tabi Life) — prospect has declined this round (budget constraints); keep warm for future engagement",
+    "DataVolt <> Successive — Copilot Studio + WorkIQ MCP demo requested by k.menon@data-volt.com; demo prep status unclear, follow up with Dhruv",
+    "Gendelberg Law AI System — last follow-up sent May 13; Leonard shared sample docs; next steps not confirmed — check with Dhruv on status"
   ],
   "new_documents": [
-    "'Patent' folder shared by Gaurav Malik (gary@successive.tech) on Drive — contains Kagen-ADD Patent Figures, Figure Writeups, and IDF v2 (shared May 25)",
-    "ReadyCrew Database spreadsheet (Lynked.co.jp) — updated today May 26 with latest leads list for Japan market"
+    "KagenADD_SalesDeck_Revised.pptx — uploaded to Google Drive by Gary (gary@successive.tech) on May 26; Priyanka Ghosh has requested access",
+    "JP Nippori Kako - Discovery Proposal.pptx — shared by Kyoko Horie (Tabi Life) on Drive on May 26; sales/inventory management system proposal in Japanese",
+    "Client Responses_JP Hakuyosha_Discovery_Questions.xlsx — uploaded by Kyoko Horie on May 26; partial client responses to contract digitization discovery questions",
+    "ADD FAQs from IMGREEN Call — shared by Sekshey Bakhshi on Drive on May 26; FAQ bank derived from client call covering IP, agent architecture, speed benchmarks",
+    "JAPAN CRM Notes Ready Cred DB — updated by Sekshey on May 26; Hakuyosha added with June selection timeline; Takazono marked closed"
   ]
 }
