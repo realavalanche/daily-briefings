@@ -1,47 +1,44 @@
 {
-  "design_theme": "stripe",
+  "design_theme": "apple",
+  "date": "2026-05-28",
   "urgent": [
-    "Bolton & Menck proposal (Adobe Workfront + Creative Suite) due May 28 — Peter Paul shared slides, Praveen awaiting Gagan's inputs; review and align before EOD today",
-    "Sid's urgent note: No net new logo closed in 9–10 months — Sales & Marketing action required immediately; acknowledge and share your pipeline response",
-    "Approve/Decline Priyanka Ghosh's SharePoint access request for KagenADD_SalesDeck — pending since this morning",
-    "Google Cloud TLS cert action: Trust Google Trust Services Root CAs and ECDSA chains before Jun 15, 2026 — forward to IT/infra team"
+    "Esteck (Swcc/Japan) replied last night — still comparing vendors, competitive risk high; need a differentiated follow-up via Kyoko before they shortlist a competitor",
+    "Akhil awaiting your call on ADD video messaging direction — SMB (faster time-to-market) vs Enterprise (governance + traceability) angle; agency cannot proceed without this decision",
+    "RSVP pending: Connect for PwC SRE || Internal at 10:30 AM IST today — respond now (Ish Bhalla, Sapna, Deepak, Sushant invited)",
+    "Out of Office active today — verify intentional; Kagen ADD Review of assets at 2 PM IST was auto-declined"
   ],
   "important": [
-    "Saint Gobain VR Interior Experience Discussion at 11:00 AM IST — RSVP still tentative; confirm attendance and prep with Aariz/Sekshey before call",
-    "HCAH Follow-up Discussion at 3:00 PM IST with Akshat — demo and use case discussion; ensure Naman's prompt review at 1:00 PM feeds into this",
-    "Kagen ADD launch squad: full collateral suite due by May 31 — brochure, deck, video, LinkedIn content; daily connect at 9:30 PM IST tonight",
-    "KagenADD_FAQ task assigned by Sekshey in SharePoint — review and act on added questions before next client interaction",
-    "Finquest (Prashant) — commercial proposal and deck sent May 25–26; high-value deal, follow up today for response"
+    "ITC Hotels inbound: Sabgun Walia emailed you and Dhruv about 'SuccessiveTech-ChatGPT Apps' on May 27 — high-priority enterprise hospitality lead, respond today",
+    "New Singapore prospect: Adrianus Sinarta (Archdiocese of Singapore) — Gary shared meeting minutes and WordPress-to-Strapi migration brief (v0.6, 5000 posts, 50GB); proposal expected next week",
+    "Ito-Yokado pricing confirmation pending — Kozo (Tabi Life) asked Sushant to review and confirm; you are cc'd, verify Sushant has responded",
+    "Kagen ADD launch squad daily connect at 9:00 PM IST tonight — full collateral suite (brochure, deck, video, LinkedIn) due May 31",
+    "Strategy & Solutions Daily Connect at 5:30 PM IST with Sekshey, Akanksha, Aditya"
   ],
   "meetings": [
-    "11:00 AM IST — Saint Gobain <> Successive Digital | VR Interior Experience Discussion (Ramya Muthusamy, Vignesh; with Sekshey, Gary, Aariz, Naveen)",
-    "12:00 PM IST — MMRC <> Successive Digital (Sumit Patil, MMRC; with Khushi Puri, Mayank Gubrele)",
-    "01:00 PM IST — HCAH Prompt Review (with Naman Gupta — internal pre-call prep)",
-    "03:00 PM IST — HCAH <> Successive Digital | Follow-up Discussion (with Akshat — use case demo and next steps)",
-    "04:00 PM IST — FCM Travel <> Successive Digital | Follow-up Discussion (with Onika — use case demo and next steps)",
-    "04:30 PM IST — Japan Leads Pipeline Connect (with Sekshey Bakhshi, Mohd. Shahrukh)",
-    "04:30 PM IST — GIS Track Update Weekly (with Gary, Akanksha Mathur, Visaali)",
-    "05:30 PM IST — Strategy & Solutions Daily Connect (with Sekshey, Akanksha, Aditya Gupta)",
-    "09:30 PM IST — Kagen ADD Launch Squad Daily Connect (with Gary, Akhil, Sid, Mayank, Sekshey)"
+    "10:30 AM IST — Connect for PwC SRE || Internal (Ish Bhalla, Sapna Upreti, Deepak Singh, Sushant Taneja) — RSVP needsAction",
+    "11:00 AM IST — Daily Connect (recurring)",
+    "02:00 PM IST — Interview Block",
+    "02:00 PM IST — Kagen ADD - Review of assets (Gary, Akhil, Sekshey) — auto-declined due to OOO; Gary is running it",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (Sekshey, Akanksha, Aditya)",
+    "09:00 PM IST — Kagen ADD Launch Squad Daily Connect (Gary, Akhil, Mayank, Sekshey)"
   ],
   "suggested_replies": [
-    "Re: Urgent Focus Required on Net New Logo Closures — Noted and agreed. Here are the 3 accounts closest to close in my view: [list Finquest, Bolton & Menck, Hakuyosha]. Will prioritise these this week and share a status update by Friday.",
-    "Re: Bolton & Menck Proposal (Adobe Workfront) — Gagan, please share your inputs by 3 PM today so we can finalize the deck before the May 28 deadline. Peter, I'll review and add commercial framing by EOD.",
-    "Re: Fw: UTILITY COST (Finquest/Prashant) — Hi Prashant, following up on the proposal and deck we shared. Happy to walk you through the platform in a quick call this week — let me know a convenient time.",
-    "Re: Priyanka Ghosh SharePoint Access Request — Approving access to KagenADD_SalesDeck for Priyanka. Please ensure she has the context on current version and any NDA requirements before sharing externally."
+    "Re: ADD video inputs for the agency (Akhil) — Akhil, go with the Enterprise angle for the main explainer — governance, traceability, faster delivery at scale. SMB cut can be a shorter LinkedIn version. Confirm with the agency and share a revised script outline by EOD tomorrow.",
+    "Re: SuccessiveTech-ChatGPT Apps (Sabgun Walia, ITC Hotels) — Hi Sabgun, thanks for reaching out. We've built enterprise AI solutions for hospitality clients — voice agents, document intelligence, and workflow automation. Happy to set up a 30-minute call this week to understand your specific requirements. Please share a convenient time.",
+    "Re: Esteck competitive update (via Kyoko/Tabi Life) — Kyoko-san, understood on Suzuki-san's position. Could you help us arrange a brief 20-minute call directly with their team? I'd like to walk them through our implementation approach for their specific use case — I believe it will differentiate us clearly."
   ],
   "pending_followups": [
-    "Finquest (Reid & Taylor / RTIL) — commercial proposal (₹4.5L one-time) + presentation deck sent May 25–26; no response yet from Prashant Bokil",
-    "Hakuyosha (Japan) — selection process starts mid-June, project kick-off mid-July; client discovery questions submitted, awaiting full responses",
-    "Takazono (Japan/Tabi Life) — prospect has declined this round (budget constraints); keep warm for future engagement",
-    "DataVolt <> Successive — Copilot Studio + WorkIQ MCP demo requested by k.menon@data-volt.com; demo prep status unclear, follow up with Dhruv",
-    "Gendelberg Law AI System — last follow-up sent May 13; Leonard shared sample docs; next steps not confirmed — check with Dhruv on status"
+    "Gendelberg Law (Leonard) — last response from Siddharth on May 13; no reply received since; Dhruv to follow up on sample doc review and next steps",
+    "DataVolt (k.menon@data-volt.com) — Copilot Studio + WorkIQ MCP demo requested; prep and delivery status with Dhruv unclear — verify readiness",
+    "Ito-Yokado (Japan/Tabi Life) — Kozo waiting for pricing confirmation from Sushant; loop closed or still open?",
+    "Zivame (RIL) — Keval sent scope and next steps to Rajiv/Priyanshu on May 27; proposal to follow, Siddharth looped — track timeline",
+    "Adrianus/Catholic.org.sg (Singapore) — Gary sent meeting minutes May 27; proposal to be shared next week per meeting notes — assign owner"
   ],
   "new_documents": [
-    "KagenADD_SalesDeck_Revised.pptx — uploaded to Google Drive by Gary (gary@successive.tech) on May 26; Priyanka Ghosh has requested access",
-    "JP Nippori Kako - Discovery Proposal.pptx — shared by Kyoko Horie (Tabi Life) on Drive on May 26; sales/inventory management system proposal in Japanese",
-    "Client Responses_JP Hakuyosha_Discovery_Questions.xlsx — uploaded by Kyoko Horie on May 26; partial client responses to contract digitization discovery questions",
-    "ADD FAQs from IMGREEN Call — shared by Sekshey Bakhshi on Drive on May 26; FAQ bank derived from client call covering IP, agent architecture, speed benchmarks",
-    "JAPAN CRM Notes Ready Cred DB — updated by Sekshey on May 26; Hakuyosha added with June selection timeline; Takazono marked closed"
+    "Kagen ADD Creative Brief (whatastory.agency) — updated by Shiva Gaur on May 27; 60-90s explainer video brief with full script; shared for Sid's review and approval",
+    "WordPress to Strapi Migration Proposal v0.6 — shared by Gary on May 27; Adrianus/Catholic.org.sg Singapore, 5000 posts, 50GB site, PDPA-compliant hosting required",
+    "FCM Travel Follow-up Discussion Recording — uploaded by Aariz Khan on May 27; post-demo call recording with Onika (FCM Travel)",
+    "HCAH Follow-up Discussion Recording — uploaded by Aariz Khan on May 27; post-demo call recording with Akshat (use case demo and next steps)",
+    "JP SUGIMOTO Discovery Questions (xlsx) — shared by Kyoko Horie on May 27; AI HR assistant discovery Q&A for Sugimoto Food, includes SaaS pricing proposal"
   ]
 }
