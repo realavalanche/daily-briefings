@@ -1,45 +1,39 @@
 {
-  "design_theme": "framer",
-  "date": "2026-05-29",
+  "design_theme": "vercel",
   "urgent": [
-    "ITC Hotels meeting TODAY at 2:00 PM IST (Commercial Boardroom) — Sabgun Walia + Vikram Singh + Alok Prasad + Dhruv; ChatGPT Apps discussion; high-value enterprise hospitality lead; prep talking points before the call",
-    "TabiLife / ItoYokado Quick Connect TODAY at 10:30 AM IST — RSVP still needsAction; confirm attendance now (Sushant, Sekshey, Kyoko, Michael Stobo on the call)",
-    "Universal Paving UK Project Brief (Keval Paun, May 28) — needs your direction on ballpark cost estimate approach; no AWS funding program active per Mayank; Keval is waiting"
+    "Reply to Sekshey's Weekly Status Report (unread, May 31) — Hakuyosha & FCM pricing still pending, action needed today",
+    "ITC Hotels ChatGPT Apps meeting TODAY 10:00 AM IST in-person at ITC Green Centre — ITC_Proposal.pptx updated on SharePoint yesterday",
+    "Confirm Ito-Yokado pricing for Kozo (Tabilife) — requested May 27, no response sent yet"
   ],
   "important": [
-    "Kagen ADD launch deadline May 31 — tonight's squad daily connect at 9 PM IST is the penultimate sync; brochure, pitch deck, videos, and LinkedIn content all must be ready; ADD use cases shared by Siddharth to Sekshey for repo upload",
-    "Infinite Technologies NDA — Gary followed up with Manish Nath (Infinite) on May 28 after a productive call; NDA still not received; engagement cannot start without it",
-    "Mahindra Holidays NDA — Dhruv's 4th follow-up on May 28; Sandeepan (Mahindra Holidays) has been silent since May 14 despite multiple reminders; may need direct outreach",
-    "HyFun Foods <> Successive Digital | SecureSphere AI — intro meeting TODAY at 4:00 PM IST; organized by Aariz; agenda covers SecureSphere AI capabilities and Q&A",
-    "The Hosteller (Dushyant) — Dhruv followed up again on May 28; no response in 3+ weeks on ChatGPT Marketplace App; needs a call/park decision"
+    "Share HCAH Proposal and Catholic.Sg Proposal — both marked ready by Sekshey, awaiting your send",
+    "SAIB Stress Testing POC — Raghad has not responded to pre-requisites shared May 21 & 25, follow-up overdue",
+    "Kagen ADD launch: case studies, project plan, and sales deck update all flagged as pending by Sekshey",
+    "Weekly Reports Review 7:30 PM IST — mandatory attendance with cameras on (Gary's standing call)"
   ],
   "meetings": [
-    "10:30 AM IST — Quick Connect <> TabiLife || Successive for ItoYokado (Sushant Taneja organizing; Sekshey, Kyoko, Michael Stobo) — Google Meet",
-    "11:30 AM IST — Daily Connect (recurring)",
-    "1:30 PM IST — Lunch",
-    "2:00 PM IST — SuccessiveTech-ChatGPT Apps with ITC Hotels (Sabgun Walia, Vikram Singh, Alok Prasad, Dhruv Mahajan) — Commercial Boardroom, in-person",
-    "2:30 PM IST — CMS Track Weekly (Akanksha, Gary, Prabal, Saurabh) — Google Meet",
-    "3:00 PM IST — Commerce Track Weekly (Akanksha, Gary, Naman, Mayank Awasthi) — Google Meet",
-    "4:00 PM IST — HyFun Foods <> Successive Digital | SecureSphere AI (Aariz organizing) — Google Meet",
-    "5:30 PM IST — Strategy & Solutions Daily Connect (Sekshey, Akanksha, Aditya) — Google Meet",
-    "7:30 PM IST — Consolidated Leads Data Review – All Tracks (Mohd Shahrukh organizing; all track heads) — Google Meet",
-    "9:00 PM IST — Kagen ADD Launch Squad Daily Connect (Gary, Akhil, Mayank, Sekshey) — Google Meet"
+    "10:00 AM IST — SuccessiveTech-ChatGPT Apps, in-person, ITC Green Centre Commercial Boardroom (Vikram Singh & Alok Prasad, ITC Hotels)",
+    "12:00 PM IST — Daily Connect (recurring)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (Google Meet, Akanksha Mathur)",
+    "07:30 PM IST — Channel, Commerce, Marketing, Cloud & Solutions Weekly Reports Review (Google Meet, cameras mandatory — Gary)",
+    "09:00 PM IST — Kagen ADD Launch Squad Daily Connect (Google Meet, Gary)"
   ],
   "suggested_replies": [
-    "Re: Universal Paving UK Project Brief (Keval) — Keval, don't wait on the AWS ID. Prepare a ballpark estimate based on the brief and flag cloud credits as a TBD line item. Share the estimate with me before EOD tomorrow and we'll align on positioning before it goes to the client.",
-    "Re: Mahindra Holidays NDA follow-up (Dhruv) — Dhruv, two weeks on the NDA is too long on an email chain. Give Sandeepan a direct call today — keep it brief, just checking if they have any redlines. If we don't hear back by EOD, let's reassess the priority together.",
-    "Re: The Hosteller / ChatGPT App (Dhruv) — Dhruv, park The Hosteller for now. Dushyant's been unresponsive for three weeks — it's not a priority for them at the moment. Redirect your time to ITC Hotels and Mahindra Holidays where we have active momentum."
+    "Re: Weekly Status Report (Sekshey) — Reviewed. Will confirm Hakuyosha pricing today. Go ahead and send HCAH and Catholic.Sg. Get me FCM pricing by EOD so we can close that one too.",
+    "Re: Stress Testing POC Alignment (Raghad, SAIB) — Keval has sent the pre-requisites twice now. Please share feedback this week — we are ready to proceed once access and approvals are in place on your side.",
+    "Re: AstroLab OCR / Ito-Yokado (Kozo, Tabilife) — Kozo, apologies for the delay on Ito-Yokado pricing. Aligning with the team today and will revert by EOD."
   ],
   "pending_followups": [
-    "Infinite Technologies NDA — Gary's latest follow-up sent May 28; Manish Nath (Infinite) yet to send signed NDA; engagement on identified items blocked until received",
-    "Mahindra Holidays NDA — Dhruv followed up four times since May 14; Sandeepan (Mahindra Holidays) still silent; direct call needed today",
-    "The Hosteller (Dushyant) — Dhruv's third follow-up sent May 28; ChatGPT Marketplace App discussion dead in the water for 3+ weeks",
-    "Gendelberg Law (Leonard) — Siddharth's last reply was May 13; no update from Leonard on AI legal system next steps; Dhruv to chase",
-    "Universal Paving UK AWS Funding — Keval waiting on next funding program launch timeline from Mayank; currently no active programs"
+    "Hakuyosha Proposal — pricing sign-off still pending with Siddharth (Sekshey flagged May 31)",
+    "SAIB Stress Testing POC — pre-requisites sent May 21 & May 25, Raghad's response still awaited",
+    "Ito-Yokado pricing confirmation (Tabilife/Kozo) — Kozo requested May 27, no reply sent yet",
+    "Gendelberg Law AI system — last meaningful outreach May 13, no status update since"
   ],
   "new_documents": [
-    "InOrbit-Proposal (16-slide deck) — shared by Keval Paun on May 28; unified digital transformation proposal for InOrbit mall brand covering website revamp, commerce migration, and loyalty digitalization",
-    "AI_Product_Content_Generator_PRD_v1.docx — shared by Naman Gupta on May 28; PRD for AI-native catalog-scale content engine for Shopify and BigCommerce merchants",
-    "AI_Fraud_Return_Predictor_PRD_v1.docx — shared by Naman Gupta on May 28; PRD for real-time order risk scoring and return abuse prevention for Shopify merchants"
+    "Hakuyosha-Contract-Intelligence-Platform.pptx — uploaded to Drive by Sekshey Bakhshi (May 31)",
+    "ITC_Proposal.pptx — updated on SharePoint under Q2 Proposals/ITC (May 31) — review before 10 AM meeting",
+    "FCM Proposal.pptx — updated on SharePoint (May 31) — pricing section still pending",
+    "Sugimoto_Knowledge_Assistant_Case_Study.pptx — uploaded to Drive by Sekshey Bakhshi (May 31)",
+    "KagenADD_Enterprise_Sales_Deck.pptx — shared on Drive by Gary (May 29)"
   ]
 }
