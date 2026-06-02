@@ -1,39 +1,46 @@
 {
-  "design_theme": "vercel",
+  "design_theme": "apple",
   "urgent": [
-    "Reply to Sekshey's Weekly Status Report (unread, May 31) — Hakuyosha & FCM pricing still pending, action needed today",
-    "ITC Hotels ChatGPT Apps meeting TODAY 10:00 AM IST in-person at ITC Green Centre — ITC_Proposal.pptx updated on SharePoint yesterday",
-    "Confirm Ito-Yokado pricing for Kozo (Tabilife) — requested May 27, no response sent yet"
+    "Approve team timesheets before Wednesday 2 PM — PMO deadline is tomorrow (Jun 3)",
+    "Prepare for Gendelberg Law Proposal Walkthrough at 7:30 PM IST tonight — review proposal deck before the call",
+    "ITC Hotels commercial meeting was yesterday — updated ITC_Proposal.pptx on SharePoint needs your sign-off before next client touch"
   ],
   "important": [
-    "Share HCAH Proposal and Catholic.Sg Proposal — both marked ready by Sekshey, awaiting your send",
-    "SAIB Stress Testing POC — Raghad has not responded to pre-requisites shared May 21 & 25, follow-up overdue",
-    "Kagen ADD launch: case studies, project plan, and sales deck update all flagged as pending by Sekshey",
-    "Weekly Reports Review 7:30 PM IST — mandatory attendance with cameras on (Gary's standing call)"
+    "GIS Capability Deck — Aditya Gupta committed to share final draft by tomorrow (Jun 3); confirm Pratik Parmar's feedback loop is closed",
+    "Im Green RFP (Jayant) — team is actively reviewing; clarify go/no-go and response timeline before end of week",
+    "DataVolt (k.menon) — MS Copilot Studio + D365 F&O Agents demo still pending; no owner assigned after Gary's May 13 pushback",
+    "Bajaj General (Avinash Gawali) — case study sent May 7, three follow-ups since, zero response; decide to escalate or park",
+    "GM Financial virtual connect — Jun 3 at 11 AM ET (Nicole via LinkedIn outreach); confirm your attendance or delegate"
   ],
   "meetings": [
-    "10:00 AM IST — SuccessiveTech-ChatGPT Apps, in-person, ITC Green Centre Commercial Boardroom (Vikram Singh & Alok Prasad, ITC Hotels)",
-    "12:00 PM IST — Daily Connect (recurring)",
-    "05:30 PM IST — Strategy & Solutions Daily Connect (Google Meet, Akanksha Mathur)",
-    "07:30 PM IST — Channel, Commerce, Marketing, Cloud & Solutions Weekly Reports Review (Google Meet, cameras mandatory — Gary)",
-    "09:00 PM IST — Kagen ADD Launch Squad Daily Connect (Google Meet, Gary)"
+    "10:00 AM IST — Prep | ICICI & OneInsure (internal 30-min prep, Naveen Sharma organising)",
+    "10:30 AM IST — Rakuwakai 1st Meeting (Rescheduled) — Lynked Japan (Kyoko Horie), Zoom",
+    "11:30 AM IST — Proposal Walkthrough: InOrbit x Successive (Keval Paun + Ruchita Shahani, InOrbit)",
+    "12:30 PM IST — Daily Connect",
+    "02:00 PM IST — Interview Block",
+    "03:00 PM IST — Ageas Federal <> Successive Digital | AI Capabilities & Overview (Aariz organising)",
+    "04:00 PM IST — Internal Proposal Discussion: HCAH (Gary, Naman, Vishal, Dhruv)",
+    "04:30 PM IST — Connect for Next Steps on PwC || Internal (Ish Bhalla)",
+    "05:00 PM IST — Connect for Next Steps on KPMG || Internal (Ish Bhalla)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha organising)",
+    "07:30 PM IST — Gendelberg Law <> Successive Digital || Proposal Walkthrough (Leonard, Dhruv)",
+    "09:00 PM IST — Kagen ADD Launch Squad Daily Connect (Gary organising)"
   ],
   "suggested_replies": [
-    "Re: Weekly Status Report (Sekshey) — Reviewed. Will confirm Hakuyosha pricing today. Go ahead and send HCAH and Catholic.Sg. Get me FCM pricing by EOD so we can close that one too.",
-    "Re: Stress Testing POC Alignment (Raghad, SAIB) — Keval has sent the pre-requisites twice now. Please share feedback this week — we are ready to proceed once access and approvals are in place on your side.",
-    "Re: AstroLab OCR / Ito-Yokado (Kozo, Tabilife) — Kozo, apologies for the delay on Ito-Yokado pricing. Aligning with the team today and will revert by EOD."
+    "Re: Gendelberg Law Proposal Walkthrough (to Dhruv) — 'Confirmed for tonight at 7:30 PM. I've reviewed the proposal — let's align on pricing approach and timeline commitments 15 minutes before Leonard joins.'",
+    "Re: Im Green RFP (to Abhi/Jayant) — 'Thanks for flagging. We're reviewing the RFP in detail — expect our clarifying questions by EOD Jun 3. Happy to connect briefly before that if needed.'",
+    "Re: GM Financial Virtual Connect Jun 3 (to Nicole) — 'Thanks for the invite. Confirming attendance for June 3 at 11 AM ET. Looking forward to the conversation on Governed AI and Semantic Search.'",
+    "Re: Update Capability Decks | GIS (to Visaali/Aditya) — 'Aditya, please share the final draft by COB tomorrow as discussed. Visaali, once you receive it, give us a same-day review turnaround so we can close this out.'"
   ],
   "pending_followups": [
-    "Hakuyosha Proposal — pricing sign-off still pending with Siddharth (Sekshey flagged May 31)",
-    "SAIB Stress Testing POC — pre-requisites sent May 21 & May 25, Raghad's response still awaited",
-    "Ito-Yokado pricing confirmation (Tabilife/Kozo) — Kozo requested May 27, no reply sent yet",
-    "Gendelberg Law AI system — last meaningful outreach May 13, no status update since"
+    "Bajaj General — Avinash Gawali, no response since May 18 follow-up on ChatGPT App case study; 4 touches total, consider a call or cold closure",
+    "DataVolt — k.menon requested MS Copilot Studio + D365 F&O demo (May 13); Gary raised licensing concern; no resolution or owner since",
+    "GIS Capability Deck — Aditya's final draft due Jun 3, Pratik Parmar yet to provide comments on slides",
+    "OneInsure ChatGPT Appstore call (Jun 4, 3 PM IST) — demo/prep materials not yet confirmed with Aariz's team",
+    "Bloom/Rishabh Gupta — replied Apr 13 saying 'not the right time for ChatGPT app'; data sharing discussion referenced but no follow-up sent"
   ],
   "new_documents": [
-    "Hakuyosha-Contract-Intelligence-Platform.pptx — uploaded to Drive by Sekshey Bakhshi (May 31)",
-    "ITC_Proposal.pptx — updated on SharePoint under Q2 Proposals/ITC (May 31) — review before 10 AM meeting",
-    "FCM Proposal.pptx — updated on SharePoint (May 31) — pricing section still pending",
-    "Sugimoto_Knowledge_Assistant_Case_Study.pptx — uploaded to Drive by Sekshey Bakhshi (May 31)",
-    "KagenADD_Enterprise_Sales_Deck.pptx — shared on Drive by Gary (May 29)"
+    "ITC_Proposal.pptx — updated on SharePoint (Jun 1, 11:32 AM) under Q2 Proposals/ITC; ChatGPT App proposal for ITC Hotels",
+    "Successive Digital - Proposal for Kroll ECM RFP - Final.pptx — updated on SharePoint (Jun 1, 8:56 AM) under Q4 Proposals/Kroll Large Deal/Final Submission"
   ]
 }
