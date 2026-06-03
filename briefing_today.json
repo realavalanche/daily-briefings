@@ -1,46 +1,38 @@
 {
   "design_theme": "apple",
   "urgent": [
-    "Approve team timesheets before Wednesday 2 PM — PMO deadline is tomorrow (Jun 3)",
-    "Prepare for Gendelberg Law Proposal Walkthrough at 7:30 PM IST tonight — review proposal deck before the call",
-    "ITC Hotels commercial meeting was yesterday — updated ITC_Proposal.pptx on SharePoint needs your sign-off before next client touch"
+    "HealthFlex (VOICE) urgent deal \u2014 demo on Friday, proposal stage expected next week; reply to Akhil confirming BD prep",
+    "Kagen ADD GTM & Market Expansion Plan circulated by Sid \u2014 UNREAD, requires review and track ownership confirmation today",
+    "Gendelberg Law Proposal Walkthrough tonight at 7:30 PM IST \u2014 confirm AI demo readiness with Dhruv"
   ],
   "important": [
-    "GIS Capability Deck — Aditya Gupta committed to share final draft by tomorrow (Jun 3); confirm Pratik Parmar's feedback loop is closed",
-    "Im Green RFP (Jayant) — team is actively reviewing; clarify go/no-go and response timeline before end of week",
-    "DataVolt (k.menon) — MS Copilot Studio + D365 F&O Agents demo still pending; no owner assigned after Gary's May 13 pushback",
-    "Bajaj General (Avinash Gawali) — case study sent May 7, three follow-ups since, zero response; decide to escalate or park",
-    "GM Financial virtual connect — Jun 3 at 11 AM ET (Nicole via LinkedIn outreach); confirm your attendance or delegate"
+    "Tabilife OCR Demo Connect for Astrolab at 10:30 AM IST \u2014 client reviewing POC; ensure demo environment is ready",
+    "Updated NDA & MSA finalized by legal (Nishant Tatke) \u2014 review key changes and align sales team before sending to clients",
+    "Mahindra Holidays NDA \u2014 Sandeepan's legal review overdue, last follow-up May 28; escalate or close loop",
+    "Catholic.sg Proposal Walkthrough on Jun 4 \u2014 Gary leading, you declined (OOO); ensure Mayank/Prabal are briefed"
   ],
   "meetings": [
-    "10:00 AM IST — Prep | ICICI & OneInsure (internal 30-min prep, Naveen Sharma organising)",
-    "10:30 AM IST — Rakuwakai 1st Meeting (Rescheduled) — Lynked Japan (Kyoko Horie), Zoom",
-    "11:30 AM IST — Proposal Walkthrough: InOrbit x Successive (Keval Paun + Ruchita Shahani, InOrbit)",
-    "12:30 PM IST — Daily Connect",
-    "02:00 PM IST — Interview Block",
-    "03:00 PM IST — Ageas Federal <> Successive Digital | AI Capabilities & Overview (Aariz organising)",
-    "04:00 PM IST — Internal Proposal Discussion: HCAH (Gary, Naman, Vishal, Dhruv)",
-    "04:30 PM IST — Connect for Next Steps on PwC || Internal (Ish Bhalla)",
-    "05:00 PM IST — Connect for Next Steps on KPMG || Internal (Ish Bhalla)",
-    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha organising)",
-    "07:30 PM IST — Gendelberg Law <> Successive Digital || Proposal Walkthrough (Leonard, Dhruv)",
-    "09:00 PM IST — Kagen ADD Launch Squad Daily Connect (Gary organising)"
+    "09:30 AM IST \u2014 Sugimoto 1st Meeting (Lynked/Tabilife, Zoom \u2014 new Japan lead intro)",
+    "10:30 AM IST \u2014 Successive <> Tabilife: OCR Demo Connect for Astrolab",
+    "11:00 AM IST \u2014 Daily Connect (recurring)",
+    "01:00 PM IST \u2014 Channel Alliances Track Update (with Akanksha, Gary, Mayank)",
+    "04:30 PM IST \u2014 Japan Leads Pipeline Connect (recurring; note: overlaps with GIS Track Update)",
+    "05:30 PM IST \u2014 Strategy & Solutions Daily Connect",
+    "09:30 PM IST \u2014 Kagen ADD Launch Squad Daily Connect (Gary's fast-track execution team)"
   ],
   "suggested_replies": [
-    "Re: Gendelberg Law Proposal Walkthrough (to Dhruv) — 'Confirmed for tonight at 7:30 PM. I've reviewed the proposal — let's align on pricing approach and timeline commitments 15 minutes before Leonard joins.'",
-    "Re: Im Green RFP (to Abhi/Jayant) — 'Thanks for flagging. We're reviewing the RFP in detail — expect our clarifying questions by EOD Jun 3. Happy to connect briefly before that if needed.'",
-    "Re: GM Financial Virtual Connect Jun 3 (to Nicole) — 'Thanks for the invite. Confirming attendance for June 3 at 11 AM ET. Looking forward to the conversation on Governed AI and Semantic Search.'",
-    "Re: Update Capability Decks | GIS (to Visaali/Aditya) — 'Aditya, please share the final draft by COB tomorrow as discussed. Visaali, once you receive it, give us a same-day review turnaround so we can close this out.'"
+    "Re: Urgent Deal - HealthFlex (VOICE) \u2014 On it. I'll work with Akhil and Peter to ensure demo is sharp for Friday. Will loop in on prep by EOD.",
+    "Re: Kagen ADD GTM & Market Expansion Plan \u2014 Reviewed. Aligned on the 4-month roadmap. Confirm my ownership of [track] and will sync with the launch squad tonight.",
+    "Re: Support for Sales Call collateral \u2014 Decks received from Aditya. Thanks for the quick turnaround \u2014 forwarding to Peter now."
   ],
   "pending_followups": [
-    "Bajaj General — Avinash Gawali, no response since May 18 follow-up on ChatGPT App case study; 4 touches total, consider a call or cold closure",
-    "DataVolt — k.menon requested MS Copilot Studio + D365 F&O demo (May 13); Gary raised licensing concern; no resolution or owner since",
-    "GIS Capability Deck — Aditya's final draft due Jun 3, Pratik Parmar yet to provide comments on slides",
-    "OneInsure ChatGPT Appstore call (Jun 4, 3 PM IST) — demo/prep materials not yet confirmed with Aariz's team",
-    "Bloom/Rishabh Gupta — replied Apr 13 saying 'not the right time for ChatGPT app'; data sharing discussion referenced but no follow-up sent"
+    "Mahindra Holidays NDA \u2014 Sandeepan Banerjee (Mahindra) yet to revert on legal changes; last chased May 28 by Dhruv",
+    "RTIL/Prashant Bokil \u2014 Revised proposals sent May 25-26 for both RTIL entities; no response received yet",
+    "AstroLab OCR POC (Tabilife/Kozo) \u2014 Ito-Yokado pricing confirmation still pending; last follow-up May 27",
+    "Adrianus/Catholic.sg \u2014 Proposal walkthrough placeholder sent for Jun 4; Adrianus' acceptance status unclear"
   ],
   "new_documents": [
-    "ITC_Proposal.pptx — updated on SharePoint (Jun 1, 11:32 AM) under Q2 Proposals/ITC; ChatGPT App proposal for ITC Hotels",
-    "Successive Digital - Proposal for Kroll ECM RFP - Final.pptx — updated on SharePoint (Jun 1, 8:56 AM) under Q4 Proposals/Kroll Large Deal/Final Submission"
+    "Catholic.sg CMS Modernization Deck.pptx \u2014 updated on SharePoint (Q2 Proposals/Catholic.sg) on Jun 2",
+    "Successive_Deck_KPMG.pptx \u2014 updated on SharePoint (Q2 Proposals/KPMG) on Jun 2"
   ]
 }
