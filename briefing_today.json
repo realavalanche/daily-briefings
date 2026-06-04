@@ -1,38 +1,39 @@
 {
-  "design_theme": "apple",
+  "design_theme": "framer",
   "urgent": [
-    "HealthFlex (VOICE) urgent deal \u2014 demo on Friday, proposal stage expected next week; reply to Akhil confirming BD prep",
-    "Kagen ADD GTM & Market Expansion Plan circulated by Sid \u2014 UNREAD, requires review and track ownership confirmation today",
-    "Gendelberg Law Proposal Walkthrough tonight at 7:30 PM IST \u2014 confirm AI demo readiness with Dhruv"
+    "ImGreen RFP response sent by Sekshey (Jun 3, UNREAD) — review thread, align on proposal strategy before client follow-up",
+    "Kagen ADD GTM Launch tracker: ADD Brochure (long + short) and Kagen Homepage Refresh due TODAY Jun 4 — confirm status with Akhil",
+    "Healthflex - Review demos and competitive aspects call tonight 10:30 PM IST — Peter organizing; you're invited (OOO), loop in Akhil on prep"
   ],
   "important": [
-    "Tabilife OCR Demo Connect for Astrolab at 10:30 AM IST \u2014 client reviewing POC; ensure demo environment is ready",
-    "Updated NDA & MSA finalized by legal (Nishant Tatke) \u2014 review key changes and align sales team before sending to clients",
-    "Mahindra Holidays NDA \u2014 Sandeepan's legal review overdue, last follow-up May 28; escalate or close loop",
-    "Catholic.sg Proposal Walkthrough on Jun 4 \u2014 Gary leading, you declined (OOO); ensure Mayank/Prabal are briefed"
+    "Catholic.sg Proposal Walkthrough at 12:30 PM IST today — Gary leading, you declined (OOO); ensure Mayank and Prabal are briefed and proposal is sharp",
+    "OneInsure <> Successive Digital ChatGPT Appstore meeting at 3:00 PM IST — Aariz managing, new client intro; review agenda if available",
+    "Kagen ADD GTM ownership tracker updated by Sekshey — Abhishek confirmed NA CXO events ownership; review assignments before 9 PM squad call",
+    "Kagen ADD Commercial Packaging assigned to Siddharth (due Jun 8) — in progress, ensure draft is ready for Monday"
   ],
   "meetings": [
-    "09:30 AM IST \u2014 Sugimoto 1st Meeting (Lynked/Tabilife, Zoom \u2014 new Japan lead intro)",
-    "10:30 AM IST \u2014 Successive <> Tabilife: OCR Demo Connect for Astrolab",
-    "11:00 AM IST \u2014 Daily Connect (recurring)",
-    "01:00 PM IST \u2014 Channel Alliances Track Update (with Akanksha, Gary, Mayank)",
-    "04:30 PM IST \u2014 Japan Leads Pipeline Connect (recurring; note: overlaps with GIS Track Update)",
-    "05:30 PM IST \u2014 Strategy & Solutions Daily Connect",
-    "09:30 PM IST \u2014 Kagen ADD Launch Squad Daily Connect (Gary's fast-track execution team)"
+    "11:00 AM IST — Daily Connect (recurring)",
+    "12:30 PM IST — Successive Digital Proposal Walkthrough with Adrianus Sinarta (Catholic.org.sg) — Gary leading",
+    "02:00 PM IST — Interview Block (recurring)",
+    "03:00 PM IST — OneInsure <> Successive Digital | ChatGPT Appstore (Aariz organising)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha organising)",
+    "09:00 PM IST — Kagen ADD Launch Squad Daily Connect (Gary's fast-track execution team)",
+    "10:30 PM IST — Healthflex: Review demos and competitive aspects to Close (Peter organising)"
   ],
   "suggested_replies": [
-    "Re: Urgent Deal - HealthFlex (VOICE) \u2014 On it. I'll work with Akhil and Peter to ensure demo is sharp for Friday. Will loop in on prep by EOD.",
-    "Re: Kagen ADD GTM & Market Expansion Plan \u2014 Reviewed. Aligned on the 4-month roadmap. Confirm my ownership of [track] and will sync with the launch squad tonight.",
-    "Re: Support for Sales Call collateral \u2014 Decks received from Aditya. Thanks for the quick turnaround \u2014 forwarding to Peter now."
+    "Re: Im Green RFP (Sekshey's thread) — Good work on the response. Let's sync before we send the proposal — I want to review positioning on portability and the phased approach. Can we do a 30-min call tomorrow?",
+    "Re: Kagen ADD GTM & Market Expansion Plan — Acknowledged. I'll own Commercial Packaging and FAQs. Will have draft commercial structure ready by Jun 8. Aligned on the squad call tonight.",
+    "Re: Initiation of Internal PMO Tool Project — Noted on the Figma Make decision. Saransh, please share the prototype plan by EOD Friday so we can review scope before next week."
   ],
   "pending_followups": [
-    "Mahindra Holidays NDA \u2014 Sandeepan Banerjee (Mahindra) yet to revert on legal changes; last chased May 28 by Dhruv",
-    "RTIL/Prashant Bokil \u2014 Revised proposals sent May 25-26 for both RTIL entities; no response received yet",
-    "AstroLab OCR POC (Tabilife/Kozo) \u2014 Ito-Yokado pricing confirmation still pending; last follow-up May 27",
-    "Adrianus/Catholic.sg \u2014 Proposal walkthrough placeholder sent for Jun 4; Adrianus' acceptance status unclear"
+    "ITC Hotels NDA — Sabgun Walia (ITC) requested signed NDA on Apr 13; Dhruv's team yet to revert; chase Dhruv for status today",
+    "TravClan — Dhruv last followed up Apr 30 with Akshat for Ops team use cases; no response in 5 weeks; decide whether to escalate or close",
+    "Catholic.sg — Adrianus confirmed meeting placeholder for Jun 4; Siddharth declined (OOO); Gary presenting; check outcome post-call",
+    "InOrbit — Keval sent revised proposal references Jun 3; awaiting revised proposal submission to Ruchita Shahani"
   ],
   "new_documents": [
-    "Catholic.sg CMS Modernization Deck.pptx \u2014 updated on SharePoint (Q2 Proposals/Catholic.sg) on Jun 2",
-    "Successive_Deck_KPMG.pptx \u2014 updated on SharePoint (Q2 Proposals/KPMG) on Jun 2"
+    "Kagen ADD GTM Launch tracker (Sheets) — created Jun 3 by Sekshey Bakhshi; comprehensive one-time and ongoing GTM tasks with owners and due dates",
+    "AI Content & Creative Generation Use Cases - ITC Hotels (Doc) — shared Jun 3 by Dhruv Mahajan; covers video, Reels, and brand content for ITC Goa property",
+    "ReadyCrew Database (Japan Leads Spreadsheet) — updated Jun 4 by Lynked; Sugimoto meeting outcome logged (no specific use case identified)"
   ]
 }
