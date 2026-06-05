@@ -1,39 +1,38 @@
 {
-  "design_theme": "framer",
+  "design_theme": "vercel",
   "urgent": [
-    "ImGreen RFP response sent by Sekshey (Jun 3, UNREAD) — review thread, align on proposal strategy before client follow-up",
-    "Kagen ADD GTM Launch tracker: ADD Brochure (long + short) and Kagen Homepage Refresh due TODAY Jun 4 — confirm status with Akhil",
-    "Healthflex - Review demos and competitive aspects call tonight 10:30 PM IST — Peter organizing; you're invited (OOO), loop in Akhil on prep"
+    "HealthFlex VOICE demo TODAY \u2014 competitive positioning vs RingCentral AI prepared by Aditya Gupta; review deck before client call",
+    "Kagen ADD brochures (3 versions) sent by Priyanka Ghosh awaiting your review and sign-off \u2014 shared Jun 4"
   ],
   "important": [
-    "Catholic.sg Proposal Walkthrough at 12:30 PM IST today — Gary leading, you declined (OOO); ensure Mayank and Prabal are briefed and proposal is sharp",
-    "OneInsure <> Successive Digital ChatGPT Appstore meeting at 3:00 PM IST — Aariz managing, new client intro; review agenda if available",
-    "Kagen ADD GTM ownership tracker updated by Sekshey — Abhishek confirmed NA CXO events ownership; review assignments before 9 PM squad call",
-    "Kagen ADD Commercial Packaging assigned to Siddharth (due Jun 8) — in progress, ensure draft is ready for Monday"
+    "Bain & Company engagement \u2014 MoM received from Abhishek on Jun 4 with key discussion points; review next steps before next client touchpoint",
+    "InOrbit solution overview deck sent by Keval to Ruchita (Jun 4) \u2014 follow up on client's proposal response",
+    "Lyzr 2026 AI Delivery Leaders List \u2014 Successive Technology featured; leverage for BD outreach and PR messaging",
+    "SAP Now Mumbai next week \u2014 invite-only senior leader track from Connectsooki; confirm attendance"
   ],
   "meetings": [
-    "11:00 AM IST — Daily Connect (recurring)",
-    "12:30 PM IST — Successive Digital Proposal Walkthrough with Adrianus Sinarta (Catholic.org.sg) — Gary leading",
-    "02:00 PM IST — Interview Block (recurring)",
-    "03:00 PM IST — OneInsure <> Successive Digital | ChatGPT Appstore (Aariz organising)",
-    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha organising)",
-    "09:00 PM IST — Kagen ADD Launch Squad Daily Connect (Gary's fast-track execution team)",
-    "10:30 PM IST — Healthflex: Review demos and competitive aspects to Close (Peter organising)"
+    "11:00 AM \u2014 Daily Connect (recurring)",
+    "02:00 PM \u2014 Interview Block",
+    "02:30 PM \u2014 CMS Track Weekly (with Akanksha, Gary, Prabal, Saurabh)",
+    "03:00 PM \u2014 Commerce Track Weekly (with Akanksha, Gary, Naman, Mayank Awasthi)",
+    "05:30 PM \u2014 Strategy & Solutions Daily Connect",
+    "09:00 PM \u2014 Kagen ADD Launch Squad Daily Connect (Gaurav-led fast-track execution team)"
   ],
   "suggested_replies": [
-    "Re: Im Green RFP (Sekshey's thread) — Good work on the response. Let's sync before we send the proposal — I want to review positioning on portability and the phased approach. Can we do a 30-min call tomorrow?",
-    "Re: Kagen ADD GTM & Market Expansion Plan — Acknowledged. I'll own Commercial Packaging and FAQs. Will have draft commercial structure ready by Jun 8. Aligned on the squad call tonight.",
-    "Re: Initiation of Internal PMO Tool Project — Noted on the Figma Make decision. Saransh, please share the prototype plan by EOD Friday so we can review scope before next week."
+    "Re: Urgent Deal \u2014 HealthFlex VOICE \u2014 Reviewed Aditya's competitive deck. We're ready for today's demo. Please confirm the client call time and dial-in details.",
+    "Re: Kagen ADD Brochures for Review \u2014 Thanks Priyanka. Reviewed all three versions. The 2-pager is strongest for sales conversations. Will share inline comments on the doc.",
+    "Re: Successive Technology in Lyzr's 2026 AI Delivery Leaders List \u2014 Appreciate the recognition, Ani. Happy to explore collaboration given our shared focus on enterprise AI delivery. Let's find 30 minutes this week."
   ],
   "pending_followups": [
-    "ITC Hotels NDA — Sabgun Walia (ITC) requested signed NDA on Apr 13; Dhruv's team yet to revert; chase Dhruv for status today",
-    "TravClan — Dhruv last followed up Apr 30 with Akshat for Ops team use cases; no response in 5 weeks; decide whether to escalate or close",
-    "Catholic.sg — Adrianus confirmed meeting placeholder for Jun 4; Siddharth declined (OOO); Gary presenting; check outcome post-call",
-    "InOrbit — Keval sent revised proposal references Jun 3; awaiting revised proposal submission to Ruchita Shahani"
+    "SAIB / Raghad (Stress Testing POC) \u2014 Prerequisites shared May 25, Keval followed up May 25; no client response yet on technical requirements",
+    "Bajaj General / Avinash Gawali \u2014 Case study sent May 7, last follow-up May 18 with no reply; needs final outreach decision",
+    "Tabilife / Ito-Yokado (Kozo) \u2014 Pricing confirmation requested May 27; Sushant followed up, awaiting client sign-off",
+    "Gendelberg Law (Leonard) \u2014 Documents reviewed May 13; next steps on AI legal system POC pending from Dhruv's side"
   ],
   "new_documents": [
-    "Kagen ADD GTM Launch tracker (Sheets) — created Jun 3 by Sekshey Bakhshi; comprehensive one-time and ongoing GTM tasks with owners and due dates",
-    "AI Content & Creative Generation Use Cases - ITC Hotels (Doc) — shared Jun 3 by Dhruv Mahajan; covers video, Reels, and brand content for ITC Goa property",
-    "ReadyCrew Database (Japan Leads Spreadsheet) — updated Jun 4 by Lynked; Sugimoto meeting outcome logged (no specific use case identified)"
+    "Kagen ADD Brochure (2 Pager) \u2014 shared by Priyanka Ghosh on Drive, Jun 4",
+    "Competitive Positioning: Kagen VOICE vs RingCentral AI \u2014 shared by Aditya Gupta via email, Jun 4",
+    "AI Content & Creative Use Cases \u2014 ITC Hotels \u2014 shared by Dhruv Mahajan on Drive, Jun 3",
+    "ReadyCrew Database (Leads List) \u2014 updated Jun 5 by Lynked team on Drive"
   ]
 }
