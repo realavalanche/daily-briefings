@@ -1,38 +1,37 @@
 {
-  "design_theme": "vercel",
+  "design_theme": "stripe",
   "urgent": [
-    "HealthFlex VOICE demo TODAY \u2014 competitive positioning vs RingCentral AI prepared by Aditya Gupta; review deck before client call",
-    "Kagen ADD brochures (3 versions) sent by Priyanka Ghosh awaiting your review and sign-off \u2014 shared Jun 4"
+    "Send Bain Capital SOW + formal proposal today — Gary directive; Abhyuday coordinates, target SOW sign by 3rd week of June",
+    "Kagen ADD Commercial Packaging due TODAY (Jun 8) — per GTM Launch tracker, currently In Progress"
   ],
   "important": [
-    "Bain & Company engagement \u2014 MoM received from Abhishek on Jun 4 with key discussion points; review next steps before next client touchpoint",
-    "InOrbit solution overview deck sent by Keval to Ruchita (Jun 4) \u2014 follow up on client's proposal response",
-    "Lyzr 2026 AI Delivery Leaders List \u2014 Successive Technology featured; leverage for BD outreach and PR messaging",
-    "SAP Now Mumbai next week \u2014 invite-only senior leader track from Connectsooki; confirm attendance"
+    "AEP/AEM Case Studies — Peter Paul (VP Sales) needs proof of AEP transformative work urgently for National Bank of Canada prospect (Content Supply Chain, Snowflake integration, governance)",
+    "Review Kagen ADD Sales Deck on SharePoint — Gary flagged missing sections; Sekshey's version had better narrative flow; add what's missing",
+    "Catholic Church deal — pricing discussion may happen this week; Gary needs your support to run the meeting; good win probability (competitor quoting 6-8 months)",
+    "Prop Equity — 2-week CSA + SOW for Abhi; client reviewed details and wants to start ASAP",
+    "Lock in Kagen ADD Launch Event vendor by Tuesday — Gary directive; coordinate with Mayank Gubrele",
+    "Kagen ADD SaaS Credit Pricing — review Tokens-to-Credits mapping with Sid before end of week"
   ],
   "meetings": [
-    "11:00 AM \u2014 Daily Connect (recurring)",
-    "02:00 PM \u2014 Interview Block",
-    "02:30 PM \u2014 CMS Track Weekly (with Akanksha, Gary, Prabal, Saurabh)",
-    "03:00 PM \u2014 Commerce Track Weekly (with Akanksha, Gary, Naman, Mayank Awasthi)",
-    "05:30 PM \u2014 Strategy & Solutions Daily Connect",
-    "09:00 PM \u2014 Kagen ADD Launch Squad Daily Connect (Gaurav-led fast-track execution team)"
+    "11:00 AM — Daily Connect (recurring)",
+    "04:00 PM — Ajio|Successive with Arpan Biswas (RIL) — organized by Naveen Sharma; Gary declined (OOO this week)",
+    "05:30 PM — Strategy & Solutions Daily Connect (recurring, Akanksha organizer)",
+    "07:30 PM — Channel, Commerce, Marketing, Cloud & Solutions Weekly Reports Review — Gary-led, mandatory, cameras on, outputs-focused"
   ],
   "suggested_replies": [
-    "Re: Urgent Deal \u2014 HealthFlex VOICE \u2014 Reviewed Aditya's competitive deck. We're ready for today's demo. Please confirm the client call time and dial-in details.",
-    "Re: Kagen ADD Brochures for Review \u2014 Thanks Priyanka. Reviewed all three versions. The 2-pager is strongest for sales conversations. Will share inline comments on the doc.",
-    "Re: Successive Technology in Lyzr's 2026 AI Delivery Leaders List \u2014 Appreciate the recognition, Ani. Happy to explore collaboration given our shared focus on enterprise AI delivery. Let's find 30 minutes this week."
+    "Re: AEP/AEM Case Studies (Peter Paul) — Peter, let me pull our AEP assets and check with the delivery team on what's shareable. Will revert by EOD with anything relevant to content supply chain, Snowflake integration, and workflow governance on AEP.",
+    "Re: Kagen ADD Launch - Imp items for this week (Gary) — Gary, noted on all four items. Will review the Sales Deck on SharePoint and sync with Sid on the credit pricing logic today. Will coordinate with Mayank on locking the launch event vendor by Tuesday.",
+    "Re: IMP - Key Priorities for this week (Gary) — Gary, Bain Capital SOW and proposal going out today. Will be available to support the Catholic Church pricing call if it happens this week. Connecting with Abhi on Prop Equity CSA draft."
   ],
   "pending_followups": [
-    "SAIB / Raghad (Stress Testing POC) \u2014 Prerequisites shared May 25, Keval followed up May 25; no client response yet on technical requirements",
-    "Bajaj General / Avinash Gawali \u2014 Case study sent May 7, last follow-up May 18 with no reply; needs final outreach decision",
-    "Tabilife / Ito-Yokado (Kozo) \u2014 Pricing confirmation requested May 27; Sushant followed up, awaiting client sign-off",
-    "Gendelberg Law (Leonard) \u2014 Documents reviewed May 13; next steps on AI legal system POC pending from Dhruv's side"
+    "SAIB / ralshamari@saib.com.sa — Client requested HR AI Assistant prerequisites separately from Risk project; Keval is primary, ensure complete response goes out",
+    "Hakuyosha — Selection process starts mid-June, kick-off mid-July; both English and Japanese decks updated Jun 5; Japan CRM shows active deal",
+    "Tabilife <> Astrolab Demo — Wed Jun 10, 1:30 PM IST (invite from Sekshey via Kozo); confirm attendance and prep",
+    "Gendelberg Law (Leonard) — AI legal system POC next steps pending; follow up with Dhruv on proposal review timeline"
   ],
   "new_documents": [
-    "Kagen ADD Brochure (2 Pager) \u2014 shared by Priyanka Ghosh on Drive, Jun 4",
-    "Competitive Positioning: Kagen VOICE vs RingCentral AI \u2014 shared by Aditya Gupta via email, Jun 4",
-    "AI Content & Creative Use Cases \u2014 ITC Hotels \u2014 shared by Dhruv Mahajan on Drive, Jun 3",
-    "ReadyCrew Database (Leads List) \u2014 updated Jun 5 by Lynked team on Drive"
+    "JP Hakuyosha-Contract-Intelligence-Platform.pptx — Japanese version, shared Jun 5 by Kyoko Horie (Lynked) on Drive",
+    "Hakuyosha-Contract-Intelligence-Platform.pptx — English version, updated Jun 5 by Sekshey Bakhshi on Drive",
+    "Kagen ADD GTM Launch tracker — updated Jun 3 by Sekshey; Siddharth owns Commercial Packaging due Jun 8"
   ]
 }
