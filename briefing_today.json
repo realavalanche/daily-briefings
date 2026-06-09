@@ -1,37 +1,36 @@
 {
-  "design_theme": "stripe",
+  "design_theme": "apple",
   "urgent": [
-    "Send Bain Capital SOW + formal proposal today — Gary directive; Abhyuday coordinates, target SOW sign by 3rd week of June",
-    "Kagen ADD Commercial Packaging due TODAY (Jun 8) — per GTM Launch tracker, currently In Progress"
+    "Reckitt x Successive Digital discovery call at 7:30 PM IST TODAY — Vivek Nauhbar (Reckitt) confirmed; agenda: AI's impact on early-stage product discovery. Namish organized — confirm attendance and prep",
+    "Approve team timesheets by Wednesday 2 PM — PMO deadline alert received Jun 8 morning",
+    "InOrbit scope expansion — Ruchita (InOrbit) requested Loyalty + Corporate Website modules added to proposal on Jun 8; revised proposal needed ASAP"
   ],
   "important": [
-    "AEP/AEM Case Studies — Peter Paul (VP Sales) needs proof of AEP transformative work urgently for National Bank of Canada prospect (Content Supply Chain, Snowflake integration, governance)",
-    "Review Kagen ADD Sales Deck on SharePoint — Gary flagged missing sections; Sekshey's version had better narrative flow; add what's missing",
-    "Catholic Church deal — pricing discussion may happen this week; Gary needs your support to run the meeting; good win probability (competitor quoting 6-8 months)",
-    "Prop Equity — 2-week CSA + SOW for Abhi; client reviewed details and wants to start ASAP",
-    "Lock in Kagen ADD Launch Event vendor by Tuesday — Gary directive; coordinate with Mayank Gubrele",
-    "Kagen ADD SaaS Credit Pricing — review Tokens-to-Credits mapping with Sid before end of week"
+    "AEP/AEM case studies for National Bank of Canada — Akanksha to share Adobe material with Peter today; NatBank follow-up call confirmed for Fri Jun 12 at 1:30 PM ET with John Vasta (bnc.ca)",
+    "Im Green RFP — Jayant sent consolidated vendor Q&A doc on Jun 8 evening; review and incorporate into proposal",
+    "PwC L1/L2/L3 Support Transition & AI Enablement — formal proposal sent to Vijay Tripathi & Shivender Kumar (PwC) by Ish Bhalla Jun 8; monitor for response",
+    "Bain & Company CMM Portal PS SOW shared on Drive Jun 8 by Nishant Tatke — review and coordinate sign-off"
   ],
   "meetings": [
-    "11:00 AM — Daily Connect (recurring)",
-    "04:00 PM — Ajio|Successive with Arpan Biswas (RIL) — organized by Naveen Sharma; Gary declined (OOO this week)",
-    "05:30 PM — Strategy & Solutions Daily Connect (recurring, Akanksha organizer)",
-    "07:30 PM — Channel, Commerce, Marketing, Cloud & Solutions Weekly Reports Review — Gary-led, mandatory, cameras on, outputs-focused"
+    "11:00 AM IST — Daily Connect (recurring)",
+    "02:00 PM IST — Interview Block",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha organizer; Gary OOO, Sekshey declined)",
+    "07:30 PM IST — Reckitt x Successive Digital | AI & Consumer Discovery (Vivek Nauhbar, Reckitt; Namish Bhargav organizer)"
   ],
   "suggested_replies": [
-    "Re: AEP/AEM Case Studies (Peter Paul) — Peter, let me pull our AEP assets and check with the delivery team on what's shareable. Will revert by EOD with anything relevant to content supply chain, Snowflake integration, and workflow governance on AEP.",
-    "Re: Kagen ADD Launch - Imp items for this week (Gary) — Gary, noted on all four items. Will review the Sales Deck on SharePoint and sync with Sid on the credit pricing logic today. Will coordinate with Mayank on locking the launch event vendor by Tuesday.",
-    "Re: IMP - Key Priorities for this week (Gary) — Gary, Bain Capital SOW and proposal going out today. Will be available to support the Catholic Church pricing call if it happens this week. Connecting with Abhi on Prop Equity CSA draft."
+    "Re: Successive x InOrbit (Ruchita) — Ruchita, noted on the additional modules — Loyalty management and Corporate Website. We'll incorporate these into the revised scope and revert with updated solution overview and estimates shortly.",
+    "Re: Im Green RFP Consolidated Queries (Jayant) — Jayant, thank you for the consolidated Q&A. We've reviewed it and will address all relevant points in our proposal. Will revert with our submission shortly.",
+    "Re: AEP/AEM Case Studies — Akanksha, please prioritize sharing all Adobe/AEP material with Peter today — NatBank follow-up is Friday and he needs this for prep. Dish AEP case study confirmed available via Gaurav Yadav."
   ],
   "pending_followups": [
-    "SAIB / ralshamari@saib.com.sa — Client requested HR AI Assistant prerequisites separately from Risk project; Keval is primary, ensure complete response goes out",
-    "Hakuyosha — Selection process starts mid-June, kick-off mid-July; both English and Japanese decks updated Jun 5; Japan CRM shows active deal",
-    "Tabilife <> Astrolab Demo — Wed Jun 10, 1:30 PM IST (invite from Sekshey via Kozo); confirm attendance and prep",
-    "Gendelberg Law (Leonard) — AI legal system POC next steps pending; follow up with Dhruv on proposal review timeline"
+    "National Bank of Canada — follow-up call Fri Jun 12 at 1:30 PM ET; AEP case study + discovery deck must be ready with Peter before then",
+    "Kagen ADD Brochures — Sekshey shared detailed feedback Jun 8 (ChatGPT narrative audit); awaiting revised version from Priyanka/Marketing",
+    "SAIB HR AI Assistant — Keval granted 2-day POC extension Jun 8; follow up on client outcome and next steps post-extension",
+    "Yukotu Pharma — challenges deck + field audit case study uploaded Jun 8 by Sekshey; follow up on proposal readiness"
   ],
   "new_documents": [
-    "JP Hakuyosha-Contract-Intelligence-Platform.pptx — Japanese version, shared Jun 5 by Kyoko Horie (Lynked) on Drive",
-    "Hakuyosha-Contract-Intelligence-Platform.pptx — English version, updated Jun 5 by Sekshey Bakhshi on Drive",
-    "Kagen ADD GTM Launch tracker — updated Jun 3 by Sekshey; Siddharth owns Commercial Packaging due Jun 8"
+    "BAIN & Company CMM Portal PS SOW_8thJun'26.docx — shared on Drive Jun 8 by Nishant Tatke (Import-Led Business Platform)",
+    "Digital_Field_Audit_Case_Study.pptx — uploaded to Yukotu Pharma folder on Drive Jun 8 by Sekshey Bakhshi",
+    "Yutoku-Challenges-and-Desired-Outcomes.pptx — uploaded to Yukotu Pharma folder on Drive Jun 8"
   ]
 }
