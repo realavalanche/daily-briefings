@@ -1,47 +1,36 @@
 {
-  "design_theme": "framer",
+  "design_theme": "linear",
   "urgent": [
-    "ISMS Awareness Training — mandatory session TODAY 11:00 AM–12:00 PM IST (virtual, Manish Kumar Mall); attendance required for all",
-    "KagEye Commercial Model for Sting Soccer Club — call with Peter tonight 9:00–10:00 PM IST; prep commercials before the call",
-    "Honeywell strategy meeting TODAY at 2:30 PM ET (~12:00 AM IST) — confirm with Abhishek if rescheduled; GEO + strategy deck ready",
-    "Prep call: Axis Max Life | ADD — today 2:30–3:00 PM IST (Aariz Khan organizer; Akhil + Vishal also invited)"
+    "Reply to Raghad (SAIB) re: on-premise GPU/infra requirements for HR AI Assistant \u2014 she replied Jun 10, awaiting your response",
+    "Prep and attend GEO Readiness call with Honeywell tonight at 11:00 PM IST (1:30 PM ET) \u2014 organized by Abhishek, deck needed"
   ],
   "important": [
-    "Reckitt UK opportunity (£20bn CPG — Dettol, Durex, Lysol) — Requirements Gathering session Mon Jun 15, 5–6 PM IST; Vivek Nauhbar confirmed; assign solution team and prep discovery brief",
-    "State Street meeting Mon Jun 15, 9:30 AM ET — remove Honeywell slides from deck; send updated GEO/strategy materials to Abhishek before Friday",
-    "AEP/AEM Case Studies for National Bank of Canada — Akanksha to share all Adobe material with Peter before NatBank follow-up call Fri Jun 12 1:30 PM ET (John Vasta)",
-    "TH Global Capital Growth Advisory — Akshay (TH Global) introduced by Sid Jun 9; materials promised by Thu Jun 11; coordinate Successive overview + Kagen decks with Sekshey and Akanksha",
-    "Referral Partner Enablement — Sushant needs AI & Digital Engineering capability decks and Kagen collaterals urgently; 6 of 9 ready, 3 gaps remain",
-    "Bain & Company CMM Portal SOW — proposal + docs sent to Abishek.r@bain.com on Jun 9 by Abhi; monitor for sign-off",
-    "UPL Customs & Invoicing + PI Industries Shopfloor — demos done, both customers interested; proposals needed urgently (Archit team)"
+    "Reckitt (\u00a318B CPG) discovery call Jun 15 at 12:30 PM GMT (5 PM IST) \u2014 Sid & KK presenting; review Keval brief and confirm demo strategy",
+    "Yutoku Pharmaceutical 1st Meeting today at 09:30 AM IST \u2014 first client meeting with Kyoko Horie / Lynked, discovery Qs prepared on Drive",
+    "GEO Readiness call with State Street scheduled Jun 22 at 9:30 AM ET \u2014 follow up with Abhishek on deck and talking points",
+    "IM Green RFP Proposal Discussion was canceled by Sekshey \u2014 confirm with Sekshey on revised timeline to close proposal"
   ],
   "meetings": [
-    "10:00 AM IST — Daily Connect (recurring)",
-    "11:00 AM IST — ISMS Awareness Training (mandatory, virtual; trainer: Manish Kumar Mall)",
-    "01:00 PM IST — Channel Alliances Track Update (Akanksha organizer; Gary OOO)",
-    "01:30 PM IST — Tabilife <> Astrolab Demo (Sekshey Bakhshi organizer; link sent by Kozo)",
-    "02:30 PM IST — Prep call: Axis Max Life | ADD (Aariz Khan organizer)",
-    "03:30 PM IST — Interview Block",
-    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha organizer; Gary + Sekshey declined)",
-    "09:00 PM IST — KagEye Commercial Model: Sting Soccer Club (Peter organizer)"
+    "09:30 AM IST \u2014 Yutoku Pharmaceutical 1st Meeting (Zoom, hosted by Kyoko Horie / Lynked)",
+    "11:00 AM IST \u2014 Daily Connect (recurring)",
+    "01:00 PM IST \u2014 Metropolis x Successive Digital | Kagen Secure demo (organized by Aariz Khan)",
+    "02:00 PM IST \u2014 Interview Block",
+    "05:30 PM IST \u2014 Strategy & Solutions Daily Connect (organized by Akanksha Mathur)",
+    "11:00 PM IST \u2014 GEO Readiness call with Honeywell (1:30 PM ET, organized by Abhishek)"
   ],
   "suggested_replies": [
-    "Re: Reckitt opportunity (Akhil) — Akhil, confirmed for the Jun 15 Requirements Gathering session. Can you share a quick brief on Vivek's priorities so we can tailor the session? Cc'ing Keval and Namish.",
-    "Re: Strategy and Plan for State Street (Abhishek) — Abhishek, deck will be ready for Jun 15 — removing Honeywell slides for the State Street version. Any update on whether Honeywell has been rescheduled? Would prefer Thu morning IST if possible.",
-    "Re: Referral Partner Enablement (Sushant) — Sushant, 6 of 9 decks ready and accessible. The 3 remaining (Data & AI Platform, Cloud Engineering, QA/Testing) are in progress — ETA 2 days. Which partner is being onboarded first so I can prioritize?"
+    "Re: HR AI Assistant - Prerequisite (Raghad / SAIB) \u2014 Hi Raghad, thank you for the clarification. I am preparing the GPU and infrastructure requirements document for the on-premise deployment. Will share by EOD today. Let me know if a call would be helpful.",
+    "Re: Strategy and Plan for next meeting with State Street (Abhishek) \u2014 Hi Abhishek, confirmed for Jun 22. I will remove the Honeywell-specific slides and send a clean deck for your review by Friday. Let me know if scope changes.",
+    "Re: Reckitt opportunity (Keval / Akhil) \u2014 Hi Keval, reviewed the brief \u2014 strong opportunity. I will prepare the AI-driven product discovery narrative and relevant slides by EOW to support Sid and KK on the Jun 15 call."
   ],
   "pending_followups": [
-    "Honeywell meeting — Abhishek waiting to hear back from client on reschedule; confirm status before tonight's midnight slot",
-    "InOrbit revised proposal — Ruchita clarified expanded scope on Jun 9; updated estimates + solution overview needed before next check-in with Keval",
-    "TH Global Capital materials — promised by Thu Jun 11; Akshay needs Successive overview, Kagen decks, and case studies to review before alignment call",
-    "Mahindra Holidays NDA — pending from Sandeepan (Dhruv following up since May 14); no response as of May 28; consider escalating or closing",
-    "Quarterly Awards nominations (Q1 FY26-27) — reminder sent Jun 9 by Madhumita Roy; submit nominations for reportees before deadline"
+    "Tabilife / AstroLab OCR POC \u2014 Kozo (Tabilife) awaiting pricing confirmation on Ito-Yokado Chatbot; Sushant thread stalled since May 27",
+    "Kagen ADD White Paper \u2014 Sekshey shared 4 case studies with marketing (Jun 10); confirm with Ankit Vats that inputs are sufficient to proceed",
+    "AEP/AEM Case Studies for National Bank of Canada (Peter) \u2014 Akanksha committed to sharing Adobe material with Peter; confirm delivery status"
   ],
   "new_documents": [
-    "BAIN & Company CMM Portal PS SOW_8thJun'26.docx — uploaded to Drive Jun 9 by Abhi (Import-Led Business Platform PS proposal for Bain engagement)",
-    "JP Yutoku-Challenges-and-Desired-Outcomes.pptx — uploaded to Drive Jun 9 (Japanese version, Yutoku Pharma challenges and desired outcomes deck)",
-    "Digital_Field_Audit_Case_Study.pptx — uploaded to Drive Jun 8 by Sekshey (Yukotu Pharma folder; field audit case study for proposal pack)",
-    "ReadyCrew Database.xlsx — updated Jun 10 (leads list with company, industry, capital, and sales data)",
-    "Kagen ADD Demo Recording (May 29 PDT) — uploaded to Drive Jun 9 (mp4 video; available for internal review and repurposing)"
+    "ReadyCrew Database \u2014 updated today Jun 11 by c@lynked.co.jp (Google Sheets, Lynked Japan leads list)",
+    "Kagen Homepage \u2014 updated Jun 10 (Google Doc, product copy refresh shared by team)",
+    "BAIN & Company CMM Portal SOW (Jun 8) \u2014 shared by Nishant Tatke, Professional Services SOW for Import-Led Business Platform"
   ]
 }
