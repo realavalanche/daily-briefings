@@ -1,36 +1,36 @@
 {
-  "design_theme": "linear",
+  "design_theme": "vercel",
   "urgent": [
-    "Reply to Raghad (SAIB) re: on-premise GPU/infra requirements for HR AI Assistant \u2014 she replied Jun 10, awaiting your response",
-    "Prep and attend GEO Readiness call with Honeywell tonight at 11:00 PM IST (1:30 PM ET) \u2014 organized by Abhishek, deck needed"
+    "Reply to Abhishek (CRO) re: Honeywell pilot proposal — he needs you to co-author proposal + pricing for 90-day pilot (3 offerings, 3 products) before submission to Honeywell Legal/Procurement",
+    "Reply to Raghad @ SAIB re: HR AI Assistant on-premise GPU/infra requirements — she confirmed their internal infra team is ready, awaiting your spec document"
   ],
   "important": [
-    "Reckitt (\u00a318B CPG) discovery call Jun 15 at 12:30 PM GMT (5 PM IST) \u2014 Sid & KK presenting; review Keval brief and confirm demo strategy",
-    "Yutoku Pharmaceutical 1st Meeting today at 09:30 AM IST \u2014 first client meeting with Kyoko Horie / Lynked, discovery Qs prepared on Drive",
-    "GEO Readiness call with State Street scheduled Jun 22 at 9:30 AM ET \u2014 follow up with Abhishek on deck and talking points",
-    "IM Green RFP Proposal Discussion was canceled by Sekshey \u2014 confirm with Sekshey on revised timeline to close proposal"
+    "Review Peter's Kagen EYE & Voice pricing model (shared Jun 11) — US pricing call already happened last night, align on next steps with Peter",
+    "Axis Max Life <> Successive Digital | ADD Discussion at 3:30 PM IST today — organized by Aariz for Dhiraj; verify ADD demo readiness",
+    "National Bank of Canada follow-up call rescheduled to Jun 17 (Wed) 1:30 PM ET — confirm calendar invite accepted by all attendees",
+    "Chase Dhruv on ITC Hotels NDA — Sabgun Walia sent NDA on Apr 13, still unsigned after 60 days; risk of deal stalling"
   ],
   "meetings": [
-    "09:30 AM IST \u2014 Yutoku Pharmaceutical 1st Meeting (Zoom, hosted by Kyoko Horie / Lynked)",
-    "11:00 AM IST \u2014 Daily Connect (recurring)",
-    "01:00 PM IST \u2014 Metropolis x Successive Digital | Kagen Secure demo (organized by Aariz Khan)",
-    "02:00 PM IST \u2014 Interview Block",
-    "05:30 PM IST \u2014 Strategy & Solutions Daily Connect (organized by Akanksha Mathur)",
-    "11:00 PM IST \u2014 GEO Readiness call with Honeywell (1:30 PM ET, organized by Abhishek)"
+    "11:00 AM IST — Daily Connect (recurring)",
+    "02:30 PM IST — CMS Track Weekly (Akanksha organizer)",
+    "03:00 PM IST — Commerce Track Weekly (Akanksha organizer)",
+    "03:30 PM IST — Axis Max Life <> Successive Digital | ADD Discussion (Aariz/Dhiraj)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect"
   ],
   "suggested_replies": [
-    "Re: HR AI Assistant - Prerequisite (Raghad / SAIB) \u2014 Hi Raghad, thank you for the clarification. I am preparing the GPU and infrastructure requirements document for the on-premise deployment. Will share by EOD today. Let me know if a call would be helpful.",
-    "Re: Strategy and Plan for next meeting with State Street (Abhishek) \u2014 Hi Abhishek, confirmed for Jun 22. I will remove the Honeywell-specific slides and send a clean deck for your review by Friday. Let me know if scope changes.",
-    "Re: Reckitt opportunity (Keval / Akhil) \u2014 Hi Keval, reviewed the brief \u2014 strong opportunity. I will prepare the AI-driven product discovery narrative and relevant slides by EOW to support Sid and KK on the Jun 15 call."
+    "Re: Outcome of Honeywell Meeting (Abhishek) — 'Great outcome — let's block time today or tomorrow to align on the proposal structure and pricing before we submit. I'll clear my schedule around your availability.'",
+    "Re: HR AI Assistant - Prerequisite (Raghad, SAIB) — 'Thank you for the clarification. Given your internal infrastructure team is in place, I'll prepare the GPU and infra requirements document and share it with you by EOD today.'"
   ],
   "pending_followups": [
-    "Tabilife / AstroLab OCR POC \u2014 Kozo (Tabilife) awaiting pricing confirmation on Ito-Yokado Chatbot; Sushant thread stalled since May 27",
-    "Kagen ADD White Paper \u2014 Sekshey shared 4 case studies with marketing (Jun 10); confirm with Ankit Vats that inputs are sufficient to proceed",
-    "AEP/AEM Case Studies for National Bank of Canada (Peter) \u2014 Akanksha committed to sharing Adobe material with Peter; confirm delivery status"
+    "ITC Hotels NDA — Sabgun Walia sent signed NDA request Apr 13; 60 days elapsed, no response from Dhruv — escalate today",
+    "Mahindra Holidays NDA — Sandeepan (Mahindra) unresponsive since May 14 despite 3 follow-ups from Dhruv; consider executive nudge",
+    "Kagen ADD collaterals from Kanav — promised delivery Jun 11 ('Till you'll have all collaterals today'); confirm receipt with Sekshey",
+    "esTech Japan follow-up — CRM shows Jun 15 follow-up date; client still exploring, prep re-engagement note"
   ],
   "new_documents": [
-    "ReadyCrew Database \u2014 updated today Jun 11 by c@lynked.co.jp (Google Sheets, Lynked Japan leads list)",
-    "Kagen Homepage \u2014 updated Jun 10 (Google Doc, product copy refresh shared by team)",
-    "BAIN & Company CMM Portal SOW (Jun 8) \u2014 shared by Nishant Tatke, Professional Services SOW for Import-Led Business Platform"
+    "JAPAN CRM Notes Ready Cred DB — updated by Sekshey on Drive Jun 11 (Yutoku, Rakuwakai, Hakuyosha pipeline statuses updated)",
+    "JP Yutoku_Discovery_Questions.xlsx — shared by Kyoko Horie (Tabi Life) on Drive Jun 9, bilingual EN/JP discovery prep for Jun 17 meeting",
+    "Kagen-ADD Patent Figures.docx + Figure Writeups.docx — in Patent folder on Drive (shared by Gary); reviewed Jun 11 ahead of patent filings",
+    "Successive Corporate Overview.pptx (Japanese) — updated by Kyoko (Tabi Life) Jun 11 for Yutoku Pharma pitch deck"
   ]
 }
