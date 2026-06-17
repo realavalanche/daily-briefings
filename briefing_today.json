@@ -1,36 +1,45 @@
 {
-  "design_theme": "vercel",
+  "design_theme": "stripe",
   "urgent": [
-    "Reply to Abhishek (CRO) re: Honeywell pilot proposal — he needs you to co-author proposal + pricing for 90-day pilot (3 offerings, 3 products) before submission to Honeywell Legal/Procurement",
-    "Reply to Raghad @ SAIB re: HR AI Assistant on-premise GPU/infra requirements — she confirmed their internal infra team is ready, awaiting your spec document"
+    "Send Abhishek (CRO) Excel costing breakdown with margin analysis for Honeywell proposal — reviewing PPT, needs Excel to submit this week",
+    "HealthFlex follow-up call tonight at 10:30 PM IST — Amiksha Patel has open questions on solutions architecture, operations & pricing",
+    "National Bank of Canada follow-up connect tonight at 11:00 PM IST (1:30 PM ET) — with John Vasta, Peter, KK, Akhil"
   ],
   "important": [
-    "Review Peter's Kagen EYE & Voice pricing model (shared Jun 11) — US pricing call already happened last night, align on next steps with Peter",
-    "Axis Max Life <> Successive Digital | ADD Discussion at 3:30 PM IST today — organized by Aariz for Dhiraj; verify ADD demo readiness",
-    "National Bank of Canada follow-up call rescheduled to Jun 17 (Wed) 1:30 PM ET — confirm calendar invite accepted by all attendees",
-    "Chase Dhruv on ITC Hotels NDA — Sabgun Walia sent NDA on Apr 13, still unsigned after 60 days; risk of deal stalling"
+    "Kagen ADD Testing Discussion tonight at 10:00 PM IST — 3 bugs flagged: project not showing in sidebar, delete task broken, completed/pushed task deletion behavior unclear",
+    "Footwear Intelligence Platform (Stepcart): client Madhav Khurana responded — all categories open from day 1, GST not mandatory; brief Sekshey and revise solution overview",
+    "2 new HubSpot contact form leads — Gary cc'd you to join first-level call with Keval; confirm involvement",
+    "VAPT capability deck — Shalini assigned to update; verify completion before external sharing",
+    "SATO 1st Meeting today at 9:30 AM IST via Zoom with Kyoko Horie (Lynked / TabiLife, Japan)"
   ],
   "meetings": [
+    "09:30 AM IST — SATO 1st Meeting (Social & Labor Insurance Consultant Corp Japan) via Zoom with Kyoko Horie",
     "11:00 AM IST — Daily Connect (recurring)",
-    "02:30 PM IST — CMS Track Weekly (Akanksha organizer)",
-    "03:00 PM IST — Commerce Track Weekly (Akanksha organizer)",
-    "03:30 PM IST — Axis Max Life <> Successive Digital | ADD Discussion (Aariz/Dhiraj)",
-    "05:30 PM IST — Strategy & Solutions Daily Connect"
+    "12:00 PM IST — Review Prep",
+    "01:00 PM IST — Channel Alliances Track Update (Akanksha, Gary, Mayank, Praveen)",
+    "02:00 PM IST — Interview Block",
+    "02:30 PM IST — Kagen ADD Daily Connect (Sekshey, Akhil, Sid Pandey)",
+    "04:30 PM IST — GIS Track Update Weekly (Akanksha, Gary, Visaali, Praveen)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect",
+    "10:00 PM IST — Kagen ADD Testing Discussion (Sekshey, Kanavk, Manish, Sid Pandey)",
+    "10:30 PM IST — HealthFlex x Successive Digital Follow-up Connect (Amiksha Patel, Peter, Akhil, Gary)",
+    "11:00 PM IST — National Bank of Canada x Successive Digital Follow-up Connect (John Vasta / BNC)"
   ],
   "suggested_replies": [
-    "Re: Outcome of Honeywell Meeting (Abhishek) — 'Great outcome — let's block time today or tomorrow to align on the proposal structure and pricing before we submit. I'll clear my schedule around your availability.'",
-    "Re: HR AI Assistant - Prerequisite (Raghad, SAIB) — 'Thank you for the clarification. Given your internal infrastructure team is in place, I'll prepare the GPU and infra requirements document and share it with you by EOD today.'"
+    "Re: We need to finish the proposal for Honeywell with pricing — Hi Abhishek, working on the Excel breakdown with margin analysis now — will send it to you by EOD today.",
+    "Re: Discussion on Footwear Industry Intelligence & Marketplace Platform — Noted, Madhav. Removing GST as a mandate, opening all categories from day 1. Will send a revised solution brief shortly.",
+    "Re: VAPT Report | Cybersecurity Capability Deck — Hi Mukesh, Shalini is updating the capability deck. Will share the final version once it's ready — likely by tomorrow."
   ],
   "pending_followups": [
-    "ITC Hotels NDA — Sabgun Walia sent signed NDA request Apr 13; 60 days elapsed, no response from Dhruv — escalate today",
-    "Mahindra Holidays NDA — Sandeepan (Mahindra) unresponsive since May 14 despite 3 follow-ups from Dhruv; consider executive nudge",
-    "Kagen ADD collaterals from Kanav — promised delivery Jun 11 ('Till you'll have all collaterals today'); confirm receipt with Sekshey",
-    "esTech Japan follow-up — CRM shows Jun 15 follow-up date; client still exploring, prep re-engagement note"
+    "Honeywell GEO Proposal — Excel cost breakdown with margin analysis owed to Abhishek; he confirmed submission this week",
+    "Gendelberg Law AI system — last outbound was May 13; no reply received from Leonard Gendelberg on next steps",
+    "Kagen ADD Case Studies (Dentsu & Palo Alto One) — Priyanka reviewing Sekshey's HTML rewrites; sign-off pending",
+    "TKM (Toyota Kirloskar) AI Platform Deck — Naveen sent agentic AI follow-up to Abhinand San (TKM); awaiting response"
   ],
   "new_documents": [
-    "JAPAN CRM Notes Ready Cred DB — updated by Sekshey on Drive Jun 11 (Yutoku, Rakuwakai, Hakuyosha pipeline statuses updated)",
-    "JP Yutoku_Discovery_Questions.xlsx — shared by Kyoko Horie (Tabi Life) on Drive Jun 9, bilingual EN/JP discovery prep for Jun 17 meeting",
-    "Kagen-ADD Patent Figures.docx + Figure Writeups.docx — in Patent folder on Drive (shared by Gary); reviewed Jun 11 ahead of patent filings",
-    "Successive Corporate Overview.pptx (Japanese) — updated by Kyoko (Tabi Life) Jun 11 for Yutoku Pharma pitch deck"
+    "HealthFlex Follow-up Call Recording — shared by Dhwani Kothari on Google Drive (Jun 16, 12:58 PM EDT)",
+    "Kagen ADD Sales Enablement Session Recording — shared by Sekshey Bakhshi on Google Drive (Jun 16, 8:55 PM IST)",
+    "Panel Presentation — updated in SharePoint OneNote by Siddharth (Jun 16, 8:32 PM IST)",
+    "Successive Corporate Overview.pptx — updated in Drive by Kyoko Horie / Lynked Japan for SATO meeting (Jun 17)"
   ]
 }
