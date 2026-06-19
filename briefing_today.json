@@ -1,33 +1,43 @@
 {
-  "design_theme": "framer",
+  "design_theme": "linear",
   "urgent": [
-    "National Bank of Canada Follow-up Connect CANCELED by Nicole \u2014 reschedule with John Vasta urgently needed",
-    "ISRO VAPT session tonight 10:30 PM IST \u2014 Deepak, Praveen & Gaurav confirmed; active security engagement requires your oversight"
+    "Prep for ISRO AI-based VAPT customer call at 1:50 PM IST today — Gary flagged no proper calendar invite was sent; coordinate with Archit Budhiraja",
+    "Reply to Abhishek (CRO) re: New Sales Hub Session — unread since yesterday evening; confirm Tuesday or Wednesday slot and have Sekshey send the invite"
   ],
   "important": [
-    "PwC L1/L2/L3 support transition proposal \u2014 Ish following up with Vijay/Shivender; Amit Kumar slot still unconfirmed, push to close this week",
-    "Zivame QA Automation Demo confirmed for Tue Jun 23 at 4 PM IST \u2014 Keval leading; ensure demo prep and aligned talking points",
-    "Stepcart (Madhav Khurana) call today 10 AM IST \u2014 you declined OOO, Abhi & Sekshey covering; review call outcome",
-    "Lemma <> Successive ADD Discussion set for Thu Jun 25 at 4 PM IST \u2014 Aariz set it up; prep Kagen ADD positioning deck"
+    "Zivame/RIL QA Automation Demo on Tuesday — Rajesh Kumar confirmed participation; ensure Kunal Negi and Rajesh are demo-ready using the PwC setup",
+    "Axis Max Life <> Successive Digital ADD Discussion — Tuesday Jun 23, 11:00 AM IST; prep ADD overview for Dhiraj",
+    "Stepcart (Madhav Khurana) proposal — client gave detailed scope feedback; brief Sekshey and Abhyuday on next steps as promised",
+    "KagenADD_SalesDeckV2.pptx updated on SharePoint yesterday (Jun 18) — review before upcoming prospect meetings",
+    "Mahindra Holidays NDA — stalled since May 14, three follow-ups by Dhruv unacknowledged; consider escalating via Akhil"
   ],
   "meetings": [
-    "10:00 AM \u2014 Stepcart <> Successive Digital (Madhav Khurana & Sanjeev Narang; covered by Abhi & Sekshey \u2014 you declined OOO)",
-    "11:00 AM \u2014 Daily Connect (internal recurring sync)",
-    "02:30 PM \u2014 Kagen ADD Daily Connect (with Sekshey, Akhil, Sid Pandey \u2014 Google Meet)",
-    "05:30 PM \u2014 Strategy & Solutions Daily Connect (hosted by Akanksha Mathur \u2014 RSVP still pending)"
+    "11:00 AM — Daily Connect (recurring)",
+    "12:00 PM — Father's Day Celebration, Conference Room (12:00–1:30 PM)",
+    "01:50 PM — ISRO: AI-based VAPT Call with Customer (Microsoft Teams)",
+    "02:30 PM — Kagen ADD Daily Connect with Sekshey, Gary, Akhil, Sid (Google Meet) [conflicts with CMS Track]",
+    "02:30 PM — CMS Track Weekly with Akanksha, Gary, Prabal [conflicts with Kagen ADD connect]",
+    "03:00 PM — Commerce Track Weekly with Akanksha, Gary, Naman",
+    "04:30 PM — Oneinsure Internal Connect (Aariz, Sekshey, Naveen)",
+    "05:30 PM — Strategy & Solutions Daily Connect",
+    "07:30 PM — Review Dropty: Bottom-up Revised Estimates (Gary)"
   ],
   "suggested_replies": [
-    "Re: National Bank of Canada \u2014 Hi Nicole, noted on the cancellation. We're flexible to reschedule \u2014 can share 2-3 slots this week or next. Let me know what works for John's team.",
-    "Re: Zivame \u2013 QA Automation Demo \u2014 Keval, good progress. Please share the demo agenda and any client-specific prep notes with me by Jun 22 EOD for a quick review before the session.",
-    "Re: PwC L1/L2/L3 Support \u2014 Ish, any confirmation from Vijay sir on a slot? If not, send 2-3 specific time options today \u2014 let's get this locked before the week ends."
+    "Re: New Sales Hub Session (Abhishek) — Tuesday works on my end. Sekshey, please go ahead and send the calendar invite to the relevant stakeholders.",
+    "Re: VAPT Report | Cybersecurity Capability Deck — Shalini is on it with the deck update. Will share the revised version by end of next week.",
+    "Re: Zivame – Alignment on Scope and Next Steps — Rajesh and Kunal are confirmed for Tuesday's QA automation demo. We'll use the same approach we ran for PwC — will share the agenda beforehand."
   ],
   "pending_followups": [
-    "Im Green RFP \u2014 proposal submitted Jun 12; no response from Jayant since consolidated Q&A doc on Jun 8. Chase for status and submission acknowledgment.",
-    "National Bank of Canada \u2014 Follow-up Connect canceled with no reschedule proposed. Loop back with Nicole and John Vasta's team this week.",
-    "PwC \u2014 Amit Kumar discussion with Vijay/Shivender at PwC still unconfirmed; Ish following up but no slot locked yet."
+    "Mahindra Holidays NDA — sent May 14, no sign-off from Sandeepan B. despite 3+ follow-ups by Dhruv; escalation via Akhil recommended",
+    "The Hosteller (Dushyant) — ChatGPT Marketplace App & Kagen Voice — silent since May 6 despite four follow-ups",
+    "TravClan (Akshat) — AI use cases from ops team still awaited; last follow-up April 30",
+    "Bajaj General (Avinash Gawali) — case study shared May 7, no response; follow-up needed",
+    "Cybersecurity Capability Deck — Shalini Chauhan tasked with update; confirm delivery timeline"
   ],
   "new_documents": [
-    "HealthFlex x Successive Digital | Follow-up Connect Recording (Jun 16) \u2014 shared by Dhwani Kothari on Google Drive",
-    "Kagen ADD Event - 19Jun (folder) \u2014 updated by Devender Aggarwal on Jun 17; event prep materials for Jun 19 showcase"
+    "KagenADD_SalesDeckV2.pptx — updated on SharePoint (SD Standard Artefacts) by Kagen team, Jun 18",
+    "Healthcare Portfolio.pptx — updated by Abhi on Google Drive, Jun 18",
+    "Kagen ADD Event - 19Jun — event asset folder shared on Drive by Devender Aggarwal (for today's event)",
+    "HealthFlex x Successive Digital | Follow-up Connect Recording — shared by Dhwani Kothari on Drive, Jun 16"
   ]
 }
