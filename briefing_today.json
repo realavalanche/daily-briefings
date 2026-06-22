@@ -1,43 +1,38 @@
 {
-  "design_theme": "linear",
+  "design_theme": "apple",
   "urgent": [
-    "Prep for ISRO AI-based VAPT customer call at 1:50 PM IST today — Gary flagged no proper calendar invite was sent; coordinate with Archit Budhiraja",
-    "Reply to Abhishek (CRO) re: New Sales Hub Session — unread since yesterday evening; confirm Tuesday or Wednesday slot and have Sekshey send the invite"
+    "Reply to Gary re: MindScape AI proposal \u2014 clarify what additional info Rakesh Shukla needs to provide before we can send a comprehensive proposal (roadmap, architecture, timeline, financials requested)",
+    "Art Museum Project (Tabilife) update \u2014 Jason confirmed client wants to self-manage for 1 year; update pipeline, close opportunity, inform Sushant and Sekshey"
   ],
   "important": [
-    "Zivame/RIL QA Automation Demo on Tuesday — Rajesh Kumar confirmed participation; ensure Kunal Negi and Rajesh are demo-ready using the PwC setup",
-    "Axis Max Life <> Successive Digital ADD Discussion — Tuesday Jun 23, 11:00 AM IST; prep ADD overview for Dhiraj",
-    "Stepcart (Madhav Khurana) proposal — client gave detailed scope feedback; brief Sekshey and Abhyuday on next steps as promised",
-    "KagenADD_SalesDeckV2.pptx updated on SharePoint yesterday (Jun 18) — review before upcoming prospect meetings",
-    "Mahindra Holidays NDA — stalled since May 14, three follow-ups by Dhruv unacknowledged; consider escalating via Akhil"
+    "GEO Readiness call with State Street at 9:00 PM IST (9:30 AM EST) with Abhishek \u2014 prepare positioning and talking points",
+    "Mandatory Weekly Reports Review with Gary at 5:00 PM IST \u2014 prepare last-week outputs summary (cameras on, Gary's standing meeting)",
+    "HealthFlex AI Voice Agent proposal \u2014 follow-up MOM shared by Dhwani on Jun 19; pricing tiers ($2.5K-$4K/month) discussed; formal proposal needs to go out",
+    "Aviva India Internal Review at 12:30 PM IST with Dhruv Mahajan, Gary, and Prabal Raghav \u2014 review agenda and status before call"
   ],
   "meetings": [
-    "11:00 AM — Daily Connect (recurring)",
-    "12:00 PM — Father's Day Celebration, Conference Room (12:00–1:30 PM)",
-    "01:50 PM — ISRO: AI-based VAPT Call with Customer (Microsoft Teams)",
-    "02:30 PM — Kagen ADD Daily Connect with Sekshey, Gary, Akhil, Sid (Google Meet) [conflicts with CMS Track]",
-    "02:30 PM — CMS Track Weekly with Akanksha, Gary, Prabal [conflicts with Kagen ADD connect]",
-    "03:00 PM — Commerce Track Weekly with Akanksha, Gary, Naman",
-    "04:30 PM — Oneinsure Internal Connect (Aariz, Sekshey, Naveen)",
-    "05:30 PM — Strategy & Solutions Daily Connect",
-    "07:30 PM — Review Dropty: Bottom-up Revised Estimates (Gary)"
+    "11:00 AM IST \u2014 LBPL <> Successive Digital | Kagen Secure demo (organized by Aariz Khan)",
+    "11:00 AM IST \u2014 Daily Connect (recurring)",
+    "12:30 PM IST \u2014 Aviva India Internal Review (with Dhruv Mahajan, Gary, Prabal Raghav)",
+    "02:30 PM IST \u2014 Kagen ADD Daily Connect (Sekshey Bakhshi, Gary, Akhil, Sid)",
+    "03:00 PM IST \u2014 Interview Block",
+    "05:00 PM IST \u2014 Channel, Commerce, Marketing, Cloud, Solutions Team Weekly Reports Review (mandatory \u2014 Gary, cameras on)",
+    "05:30 PM IST \u2014 Strategy & Solutions Daily Connect (Akanksha Mathur)",
+    "09:00 PM IST \u2014 GEO Readiness Call with State Street (Abhishek)"
   ],
   "suggested_replies": [
-    "Re: New Sales Hub Session (Abhishek) — Tuesday works on my end. Sekshey, please go ahead and send the calendar invite to the relevant stakeholders.",
-    "Re: VAPT Report | Cybersecurity Capability Deck — Shalini is on it with the deck update. Will share the revised version by end of next week.",
-    "Re: Zivame – Alignment on Scope and Next Steps — Rajesh and Kunal are confirmed for Tuesday's QA automation demo. We'll use the same approach we ran for PwC — will share the agenda beforehand."
+    "Re: MindScape AI (Gary) \u2014 Reviewing the attachments now. To build a comprehensive proposal for Rakesh, we will need: current tech stack overview, target user base and geography, preferred monetization model, and any budget or timeline expectations. I will send him a structured requirements checklist today \u2014 will keep you posted.",
+    "Re: Art Museum Project (Jason/Tabilife) \u2014 Noted, Jason, thank you for the clarity. We completely understand the client's decision. We will mark this on hold on our end and look forward to reconnecting when they are ready to re-evaluate. Please do not hesitate to reach out \u2014 happy to support whenever the timing is right."
   ],
   "pending_followups": [
-    "Mahindra Holidays NDA — sent May 14, no sign-off from Sandeepan B. despite 3+ follow-ups by Dhruv; escalation via Akhil recommended",
-    "The Hosteller (Dushyant) — ChatGPT Marketplace App & Kagen Voice — silent since May 6 despite four follow-ups",
-    "TravClan (Akshat) — AI use cases from ops team still awaited; last follow-up April 30",
-    "Bajaj General (Avinash Gawali) — case study shared May 7, no response; follow-up needed",
-    "Cybersecurity Capability Deck — Shalini Chauhan tasked with update; confirm delivery timeline"
+    "HealthFlex AI Voice Agent \u2014 detailed MOM from Jun 16 call shared by Dhwani; formal proposal with pricing ($2.5K/$4K per month) yet to be sent; Dhwani to action",
+    "InOrbit Mall Commerce Proposal \u2014 deck updated on SharePoint Jun 21; confirm if submitted to client or pending final review",
+    "FCM Travel Proposal (Customer Engagement Suite) \u2014 deck updated on SharePoint Jun 21; confirm submission status",
+    "ReadyCrew / Japan leads database \u2014 multiple active leads (Takanashi Milk, Kyocera, Iwakura Chemical); follow-up status unclear, check with BD team"
   ],
   "new_documents": [
-    "KagenADD_SalesDeckV2.pptx — updated on SharePoint (SD Standard Artefacts) by Kagen team, Jun 18",
-    "Healthcare Portfolio.pptx — updated by Abhi on Google Drive, Jun 18",
-    "Kagen ADD Event - 19Jun — event asset folder shared on Drive by Devender Aggarwal (for today's event)",
-    "HealthFlex x Successive Digital | Follow-up Connect Recording — shared by Dhwani Kothari on Drive, Jun 16"
+    "InOrbit-Proposal.pptx \u2014 updated Jun 21 on SharePoint (Q2 Proposals > Inorbit folder)",
+    "FCM Proposal.pptx \u2014 updated Jun 21 on SharePoint (Q2 Proposals > FCM Travel > Deliverable)",
+    "Follow-up call MOM: HealthFlex x Successive Digital \u2014 Google Doc shared by Dhwani Kothari (shared Jun 19, covers AI Voice Agent scope, integrations, pricing)"
   ]
 }
