@@ -1,38 +1,39 @@
 {
-  "design_theme": "apple",
+  "design_theme": "framer",
   "urgent": [
-    "Reply to Gary re: MindScape AI proposal \u2014 clarify what additional info Rakesh Shukla needs to provide before we can send a comprehensive proposal (roadmap, architecture, timeline, financials requested)",
-    "Art Museum Project (Tabilife) update \u2014 Jason confirmed client wants to self-manage for 1 year; update pipeline, close opportunity, inform Sushant and Sekshey"
+    "Update cloud assets for Cloudverse leads — Gary assigned directly: \"Sidd - please get these assets updated for cloud\" (Jun 22, 6:36 PM)",
+    "Approve team timesheets by Wednesday 2 PM — PMO deadline, Aditya Gupta's sheet pending approval"
   ],
   "important": [
-    "GEO Readiness call with State Street at 9:00 PM IST (9:30 AM EST) with Abhishek \u2014 prepare positioning and talking points",
-    "Mandatory Weekly Reports Review with Gary at 5:00 PM IST \u2014 prepare last-week outputs summary (cameras on, Gary's standing meeting)",
-    "HealthFlex AI Voice Agent proposal \u2014 follow-up MOM shared by Dhwani on Jun 19; pricing tiers ($2.5K-$4K/month) discussed; formal proposal needs to go out",
-    "Aviva India Internal Review at 12:30 PM IST with Dhruv Mahajan, Gary, and Prabal Raghav \u2014 review agenda and status before call"
+    "Prepare CMS capabilities presentation for GS1 UAE Website Redesign — Gary: \"Work with Sid and Prabal\" (Jun 22, 11 AM)",
+    "Confirm Wednesday 11am–1pm ET slot for New Sales Hub Session — Abhishek (CRO) proposed this; Sekshey to send invite",
+    "Review inbound RFP: CMM Technology Platform — from abishekrsubramaniam@gmail.com, Keval looped in Abhi (Jun 22, 12:23 PM)",
+    "Ensure Agentic AI Summit leads get July 24 KAGEN ADD launch event invites — Sid's directive to Khushi and Mayank"
   ],
   "meetings": [
-    "11:00 AM IST \u2014 LBPL <> Successive Digital | Kagen Secure demo (organized by Aariz Khan)",
-    "11:00 AM IST \u2014 Daily Connect (recurring)",
-    "12:30 PM IST \u2014 Aviva India Internal Review (with Dhruv Mahajan, Gary, Prabal Raghav)",
-    "02:30 PM IST \u2014 Kagen ADD Daily Connect (Sekshey Bakhshi, Gary, Akhil, Sid)",
-    "03:00 PM IST \u2014 Interview Block",
-    "05:00 PM IST \u2014 Channel, Commerce, Marketing, Cloud, Solutions Team Weekly Reports Review (mandatory \u2014 Gary, cameras on)",
-    "05:30 PM IST \u2014 Strategy & Solutions Daily Connect (Akanksha Mathur)",
-    "09:00 PM IST \u2014 GEO Readiness Call with State Street (Abhishek)"
+    "09:30 AM — Alfresha Pharma Corporation 1st Meeting (Zoom with Kyoko Horie, Lynked.co.jp)",
+    "11:00 AM — Axis Max Life <> Successive Digital | ADD Discussion (Aariz organizing)",
+    "12:30 PM — Catholic.org.sg Website Proposal Follow-up (Gary organizing with Adrianus Sinarta, Arch Comms)",
+    "02:00 PM — Oneinsure <> Successive Digital | Follow-up Discussion",
+    "02:30 PM — Kagen ADD Daily Connect (Gary, Sekshey, Akhil, Sid Pandey)",
+    "03:00 PM — Aviva India — Presentation Review Internal (with Gary, Prabal, Dhruv)",
+    "04:00 PM — QA Automation Demo: Zivame x Successive [CONFLICT: HDFC ERGO ADD Discussion also at 4 PM — confirm attendance]",
+    "05:30 PM — Strategy & Solutions Daily Connect"
   ],
   "suggested_replies": [
-    "Re: MindScape AI (Gary) \u2014 Reviewing the attachments now. To build a comprehensive proposal for Rakesh, we will need: current tech stack overview, target user base and geography, preferred monetization model, and any budget or timeline expectations. I will send him a structured requirements checklist today \u2014 will keep you posted.",
-    "Re: Art Museum Project (Jason/Tabilife) \u2014 Noted, Jason, thank you for the clarity. We completely understand the client's decision. We will mark this on hold on our end and look forward to reconnecting when they are ready to re-evaluate. Please do not hesitate to reach out \u2014 happy to support whenever the timing is right."
+    "Re: New potential leads from Cloudverse — Gary, understood. Will get the cloud assets updated today and share with you by EOD.",
+    "Re: New Sales Hub Session — Abhishek, Wednesday 11am–1pm ET works. Sekshey, please send the calendar invite.",
+    "Re: GS1 UAE Website Redesign Inquiry — Gary, on it. Will sync with Sid and Prabal and have the CMS capabilities positioned for the pitch."
   ],
   "pending_followups": [
-    "HealthFlex AI Voice Agent \u2014 detailed MOM from Jun 16 call shared by Dhwani; formal proposal with pricing ($2.5K/$4K per month) yet to be sent; Dhwani to action",
-    "InOrbit Mall Commerce Proposal \u2014 deck updated on SharePoint Jun 21; confirm if submitted to client or pending final review",
-    "FCM Travel Proposal (Customer Engagement Suite) \u2014 deck updated on SharePoint Jun 21; confirm submission status",
-    "ReadyCrew / Japan leads database \u2014 multiple active leads (Takanashi Milk, Kyocera, Iwakura Chemical); follow-up status unclear, check with BD team"
+    "TH Global Capital (Akshay Sharda) — capability materials were promised by Jun 11; last follow-up from Akshay on Jun 12, no materials sent yet",
+    "Mahindra Holidays NDA (Sandeepan Banerjee) — legal edits shared May 14, multiple unanswered follow-ups through May 28",
+    "ITC Hotels NDA (Sabgun Walia) — ITC sent their NDA version for review on Apr 13, no visible response on file since",
+    "FCM Travel proposal walkthrough (Onika Thakur) — back from leave, Dhruv following up for in-person or virtual slot (Jun 22)",
+    "InOrbit (Ruchita Shahani) — scope clarifications shared Jun 9, awaiting final confirmation before proposal is updated"
   ],
   "new_documents": [
-    "InOrbit-Proposal.pptx \u2014 updated Jun 21 on SharePoint (Q2 Proposals > Inorbit folder)",
-    "FCM Proposal.pptx \u2014 updated Jun 21 on SharePoint (Q2 Proposals > FCM Travel > Deliverable)",
-    "Follow-up call MOM: HealthFlex x Successive Digital \u2014 Google Doc shared by Dhwani Kothari (shared Jun 19, covers AI Voice Agent scope, integrations, pricing)"
+    "Kagen ADD Feedback Items (Spreadsheet) — updated by Sekshey Bakhshi on Jun 22; P0 bugs and feature backlog actively tracked",
+    "Playwright_AI_9m.mp4 — uploaded by Kunal Negi on Jun 22; QA automation demo video, likely prep for Zivame demo today at 4 PM"
   ]
 }
