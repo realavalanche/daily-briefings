@@ -1,39 +1,40 @@
 {
-  "design_theme": "framer",
+  "design_theme": "vercel",
   "urgent": [
-    "Update cloud assets for Cloudverse leads — Gary assigned directly: \"Sidd - please get these assets updated for cloud\" (Jun 22, 6:36 PM)",
-    "Approve team timesheets by Wednesday 2 PM — PMO deadline, Aditya Gupta's sheet pending approval"
+    "Reply to Peter Paul (VP Sales) re: Healthflex - Proposal review timeslots -- email UNREAD, received 9:16 PM, action needed today",
+    "Respond to KK re: Queries regarding Kagen ADD -- email asks to be read end-to-end; answers sheet filled, needs your acknowledgement",
+    "Approve or deny Mukesh Sharma's SharePoint 'Site Pages' access request -- pending since yesterday morning"
   ],
   "important": [
-    "Prepare CMS capabilities presentation for GS1 UAE Website Redesign — Gary: \"Work with Sid and Prabal\" (Jun 22, 11 AM)",
-    "Confirm Wednesday 11am–1pm ET slot for New Sales Hub Session — Abhishek (CRO) proposed this; Sekshey to send invite",
-    "Review inbound RFP: CMM Technology Platform — from abishekrsubramaniam@gmail.com, Keval looped in Abhi (Jun 22, 12:23 PM)",
-    "Ensure Agentic AI Summit leads get July 24 KAGEN ADD launch event invites — Sid's directive to Khushi and Mayank"
+    "Review Aviva Life Insurance audit thread -- Prabal cc'd you; Dhruv sent discovery session recap to Aviva (Vinay & Harshit)",
+    "Update Cloud & AI Native Capability deck -- Gary directly asked 'Sidd - please get these assets updated for cloud'; Aditya added case studies #32-44",
+    "Follow up on SAP case studies with Samir (Shenzyn) -- he's ready to share S/4HANA use cases and set up a call; keep momentum",
+    "Prep for IM Green Proposal Discussion -- Abhi's invite for Fri Jun 26, 10-11:30 AM IST with jayant@imgreen.in"
   ],
   "meetings": [
-    "09:30 AM — Alfresha Pharma Corporation 1st Meeting (Zoom with Kyoko Horie, Lynked.co.jp)",
-    "11:00 AM — Axis Max Life <> Successive Digital | ADD Discussion (Aariz organizing)",
-    "12:30 PM — Catholic.org.sg Website Proposal Follow-up (Gary organizing with Adrianus Sinarta, Arch Comms)",
-    "02:00 PM — Oneinsure <> Successive Digital | Follow-up Discussion",
-    "02:30 PM — Kagen ADD Daily Connect (Gary, Sekshey, Akhil, Sid Pandey)",
-    "03:00 PM — Aviva India — Presentation Review Internal (with Gary, Prabal, Dhruv)",
-    "04:00 PM — QA Automation Demo: Zivame x Successive [CONFLICT: HDFC ERGO ADD Discussion also at 4 PM — confirm attendance]",
-    "05:30 PM — Strategy & Solutions Daily Connect"
+    "11:00 AM IST -- Daily Connect (recurring)",
+    "12:30 PM IST -- Safari Industries <> Successive | Conference Call (intro + E-commerce & AI capabilities overview)",
+    "01:00 PM IST -- Prep call: Lemma (15-min internal prep with Gary, Akhil, Aariz, Vishal, Naveen)",
+    "02:00 PM IST -- Interview Block",
+    "02:30 PM IST -- Kagen ADD Daily Connect (with Sid, Gary, Akhil)",
+    "03:00 PM IST -- Commerce Track Weekly (with Gary, Akanksha, Naman, Praveen)",
+    "04:00 PM IST -- Lemma <> Successive Digital | ADD Discussion (external client -- Kagen ADD capabilities + Q&A)",
+    "05:30 PM IST -- Strategy & Solutions Daily Connect (with Akanksha, Aditya)"
   ],
   "suggested_replies": [
-    "Re: New potential leads from Cloudverse — Gary, understood. Will get the cloud assets updated today and share with you by EOD.",
-    "Re: New Sales Hub Session — Abhishek, Wednesday 11am–1pm ET works. Sekshey, please send the calendar invite.",
-    "Re: GS1 UAE Website Redesign Inquiry — Gary, on it. Will sync with Sid and Prabal and have the CMS capabilities positioned for the pitch."
+    "Re: Queries regarding Kagen ADD (KK) -- Thanks KK, I've reviewed the answers in the sheet -- these are solid. Will align with Sekshey to use these for Lemma and IQ Line discussions. Appreciate the depth.",
+    "Re: Healthflex - Proposal review timeslots (Peter) -- Hi Peter, thanks for looping me in. I'm available for a review call today or tomorrow -- please share the timeslots and I'll confirm. Happy to drive the proposal from the tech side.",
+    "Re: SAP case studies (Samir, Shenzyn) -- Hi Samir, great to connect. Please share the S/4HANA use cases when ready -- the Sales & Distribution example sounds particularly relevant. Happy to set up a call once we've reviewed."
   ],
   "pending_followups": [
-    "TH Global Capital (Akshay Sharda) — capability materials were promised by Jun 11; last follow-up from Akshay on Jun 12, no materials sent yet",
-    "Mahindra Holidays NDA (Sandeepan Banerjee) — legal edits shared May 14, multiple unanswered follow-ups through May 28",
-    "ITC Hotels NDA (Sabgun Walia) — ITC sent their NDA version for review on Apr 13, no visible response on file since",
-    "FCM Travel proposal walkthrough (Onika Thakur) — back from leave, Dhruv following up for in-person or virtual slot (Jun 22)",
-    "InOrbit (Ruchita Shahani) — scope clarifications shared Jun 9, awaiting final confirmation before proposal is updated"
+    "Cloud & AI Native Capability deck (Aditya Gupta) -- case studies #32-44 added, deck awaiting your review before sharing with Cloudverse",
+    "IQ Line <> Successive -- in-office KAG Add demo done; next steps and proposal not yet sent",
+    "Stepcart / Footwear Marketplace (Madhav Khurana) -- client responded with scope feedback; formal revised proposal still pending",
+    "OCR Demo API keys (Sekshey to Manish Mall) -- requested for government client demo; no confirmation received yet"
   ],
   "new_documents": [
-    "Kagen ADD Feedback Items (Spreadsheet) — updated by Sekshey Bakhshi on Jun 22; P0 bugs and feature backlog actively tracked",
-    "Playwright_AI_9m.mp4 — uploaded by Kunal Negi on Jun 22; QA automation demo video, likely prep for Zivame demo today at 4 PM"
+    "Kagen ADD Backlog & Queries (Google Sheets) -- updated Jun 24 by KK & Sekshey with full client Q&A answers for upcoming demos",
+    "Aviva_Capability_Deck_V1.1 -- shared via SharePoint by Prabal Raghav on Jun 24 morning",
+    "Prototype links (Google Sheets) -- updated Jun 24 by Naman Gupta with Commerce track AI prototype status"
   ]
 }
