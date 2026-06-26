@@ -1,40 +1,41 @@
 {
-  "design_theme": "vercel",
+  "design_theme": "stripe",
   "urgent": [
-    "Reply to Peter Paul (VP Sales) re: Healthflex - Proposal review timeslots -- email UNREAD, received 9:16 PM, action needed today",
-    "Respond to KK re: Queries regarding Kagen ADD -- email asks to be read end-to-end; answers sheet filled, needs your acknowledgement",
-    "Approve or deny Mukesh Sharma's SharePoint 'Site Pages' access request -- pending since yesterday morning"
+    "RSVP + prep for SOW review with Aranca (Rohit Thevar) — today 3:00 PM IST, invited by Naveen Sharma; still needsAction",
+    "Reply to Archit Budhiraja re: PoC strategy realignment for Govt clients — CC'd Gary, needs your position today"
   ],
   "important": [
-    "Review Aviva Life Insurance audit thread -- Prabal cc'd you; Dhruv sent discovery session recap to Aviva (Vinay & Harshit)",
-    "Update Cloud & AI Native Capability deck -- Gary directly asked 'Sidd - please get these assets updated for cloud'; Aditya added case studies #32-44",
-    "Follow up on SAP case studies with Samir (Shenzyn) -- he's ready to share S/4HANA use cases and set up a call; keep momentum",
-    "Prep for IM Green Proposal Discussion -- Abhi's invite for Fri Jun 26, 10-11:30 AM IST with jayant@imgreen.in"
+    "Follow up on OCR Demo API keys with Manish Mall — Siddharth chased yesterday, no response; govt client demo at risk",
+    "HCAH x Successive: Dhruv confirmed client approval — implementation plan + timelines to be drafted and shared with Rahul Jain",
+    "Review Kagen ADD Backlog & Queries sheet — Sekshey updated Jun 24 with full client Q&A; relevant for today's 2:30 PM Daily Connect",
+    "SAP case studies (Samir/Shenzyn) — starred response received with chemical trading S/4HANA details; set up a call to close"
   ],
   "meetings": [
-    "11:00 AM IST -- Daily Connect (recurring)",
-    "12:30 PM IST -- Safari Industries <> Successive | Conference Call (intro + E-commerce & AI capabilities overview)",
-    "01:00 PM IST -- Prep call: Lemma (15-min internal prep with Gary, Akhil, Aariz, Vishal, Naveen)",
-    "02:00 PM IST -- Interview Block",
-    "02:30 PM IST -- Kagen ADD Daily Connect (with Sid, Gary, Akhil)",
-    "03:00 PM IST -- Commerce Track Weekly (with Gary, Akanksha, Naman, Praveen)",
-    "04:00 PM IST -- Lemma <> Successive Digital | ADD Discussion (external client -- Kagen ADD capabilities + Q&A)",
-    "05:30 PM IST -- Strategy & Solutions Daily Connect (with Akanksha, Aditya)"
+    "10:00 AM IST — IM Green Proposal Discussion (Abhi, Visaali, jayant@imgreen.in) [in progress at briefing time]",
+    "12:30 PM IST — Daily Connect (recurring, self-organised)",
+    "02:00 PM IST — Oneinsure <> Successive Digital | Follow-up Discussion (Aariz Khan) [CONFLICT: overlaps Interview Block]",
+    "02:30 PM IST — Kagen ADD Daily Connect (Sekshey, Gary, Akhil, Sid Pandey)",
+    "02:30 PM IST — CMS Track Weekly (Akanksha, Gary, Naman, Mayank, Prabal, Saurabh)",
+    "03:00 PM IST — SOW Review — Broker Email Intelligence Platform, Aranca (Naveen Sharma, Rohit Thevar)",
+    "04:00 PM IST — ISUZU | Successive (Naveen Sharma, Gary, Prakash Seetharaman @ ISUZU)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect + Commerce Track Weekly (parallel — resolve conflict)"
   ],
   "suggested_replies": [
-    "Re: Queries regarding Kagen ADD (KK) -- Thanks KK, I've reviewed the answers in the sheet -- these are solid. Will align with Sekshey to use these for Lemma and IQ Line discussions. Appreciate the depth.",
-    "Re: Healthflex - Proposal review timeslots (Peter) -- Hi Peter, thanks for looping me in. I'm available for a review call today or tomorrow -- please share the timeslots and I'll confirm. Happy to drive the proposal from the tech side.",
-    "Re: SAP case studies (Samir, Shenzyn) -- Hi Samir, great to connect. Please share the S/4HANA use cases when ready -- the Sales & Distribution example sounds particularly relevant. Happy to set up a call once we've reviewed."
+    "Re: Re-aligning strategy for PoCs (Archit) — Archit, agree this needs a sharper playbook for Govt accounts. Let's define a lean PoC framework — I'll set up a session next week. Gary, looping you in for visibility.",
+    "Re: SAP case studies (Samir, Shenzyn) — Hi Samir, thanks for the detailed response. The S/4HANA efficiency story for chemical trading is exactly what our client needs. Let's set up a 30-min call this week — I'll send a slot.",
+    "Re: HCAH x Successive (Dhruv) — Good progress. Please share the draft implementation plan with me before it goes to Rahul — want to align on scope and delivery timelines first."
   ],
   "pending_followups": [
-    "Cloud & AI Native Capability deck (Aditya Gupta) -- case studies #32-44 added, deck awaiting your review before sharing with Cloudverse",
-    "IQ Line <> Successive -- in-office KAG Add demo done; next steps and proposal not yet sent",
-    "Stepcart / Footwear Marketplace (Madhav Khurana) -- client responded with scope feedback; formal revised proposal still pending",
-    "OCR Demo API keys (Sekshey to Manish Mall) -- requested for government client demo; no confirmation received yet"
+    "OCR Demo API keys — Sekshey's request to Manish Mall (Jun 24) still open; Siddharth chased Jun 25 with no response; unblock urgently",
+    "ITC Hotels NDA — sent by Sabgun Walia (ITC Hotels) on Apr 13 for signature; legal sign-off still outstanding",
+    "CEAT NDA — revised version from Kiran N (CEAT) received Mar 24; no response or counter visible since",
+    "Stepcart / Footwear Marketplace (Madhav Khurana) — scope feedback received Jun 16; revised proposal not yet sent"
   ],
   "new_documents": [
-    "Kagen ADD Backlog & Queries (Google Sheets) -- updated Jun 24 by KK & Sekshey with full client Q&A answers for upcoming demos",
-    "Aviva_Capability_Deck_V1.1 -- shared via SharePoint by Prabal Raghav on Jun 24 morning",
-    "Prototype links (Google Sheets) -- updated Jun 24 by Naman Gupta with Commerce track AI prototype status"
+    "AI_Customer_Segmentation_Engine_PRD_v1.docx — created Jun 24 by Naman Gupta on Drive (Commerce accelerator track)",
+    "AI_Marketing_Automation_Engine_PRD_v1.docx — created Jun 24 by Naman Gupta on Drive (Commerce accelerator track)",
+    "Kagen ADD Backlog & Queries (Sheets) — updated Jun 24 by Sekshey Bakhshi with client Q&A, bugs, and POC response doc",
+    "Commerce Accelerator Status (Sheets) — updated Jun 25 by Naman Gupta with prototype and marketplace submission tracker",
+    "Sales Call Plan: National Bank of Canada (Doc) — updated Jun 25 by Nidhi Bhardwaj (BANT prep sheet)"
   ]
 }
