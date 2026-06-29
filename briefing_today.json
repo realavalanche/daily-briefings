@@ -1,41 +1,39 @@
 {
-  "design_theme": "stripe",
+  "design_theme": "apple",
   "urgent": [
-    "RSVP + prep for SOW review with Aranca (Rohit Thevar) — today 3:00 PM IST, invited by Naveen Sharma; still needsAction",
-    "Reply to Archit Budhiraja re: PoC strategy realignment for Govt clients — CC'd Gary, needs your position today"
+    "Counter-sign IQ Line NDA and return to Anurag Tomar — he sent signed copy Jun 26, awaiting counter-signature; Aug manpower onboarding depends on this",
+    "Reply to Gary re: Govt PoC strategy — Gary explicitly flagged Archit's email: 'Please see how this prospect can be expedited' — needs your response today"
   ],
   "important": [
-    "Follow up on OCR Demo API keys with Manish Mall — Siddharth chased yesterday, no response; govt client demo at risk",
-    "HCAH x Successive: Dhruv confirmed client approval — implementation plan + timelines to be drafted and shared with Rahul Jain",
-    "Review Kagen ADD Backlog & Queries sheet — Sekshey updated Jun 24 with full client Q&A; relevant for today's 2:30 PM Daily Connect",
-    "SAP case studies (Samir/Shenzyn) — starred response received with chemical trading S/4HANA details; set up a call to close"
+    "Review Epson SOW doc (updated Jun 25 by Nishant Tatke) before 12:30 PM meeting today — shared directly to your Drive",
+    "OE Wheels RFP (auto retail, $30M SMB, Sarasota FL) — Peter's lead cc'd to you; Abhishek asking for budget/qualification clarity — needs your steer",
+    "Review retrospective action items from Shahrukh's Jun 26 recap — pipeline gaps and deal closure challenges flagged across BD team",
+    "Adidas follow-up — Gary emailed Anirudh Sharma (Adidas) Jun 26 on post-order revenue leakage and fraud; stay looped for next steps"
   ],
   "meetings": [
-    "10:00 AM IST — IM Green Proposal Discussion (Abhi, Visaali, jayant@imgreen.in) [in progress at briefing time]",
-    "12:30 PM IST — Daily Connect (recurring, self-organised)",
-    "02:00 PM IST — Oneinsure <> Successive Digital | Follow-up Discussion (Aariz Khan) [CONFLICT: overlaps Interview Block]",
-    "02:30 PM IST — Kagen ADD Daily Connect (Sekshey, Gary, Akhil, Sid Pandey)",
-    "02:30 PM IST — CMS Track Weekly (Akanksha, Gary, Naman, Mayank, Prabal, Saurabh)",
-    "03:00 PM IST — SOW Review — Broker Email Intelligence Platform, Aranca (Naveen Sharma, Rohit Thevar)",
-    "04:00 PM IST — ISUZU | Successive (Naveen Sharma, Gary, Prakash Seetharaman @ ISUZU)",
-    "05:30 PM IST — Strategy & Solutions Daily Connect + Commerce Track Weekly (parallel — resolve conflict)"
+    "11:00 AM IST — Daily Connect (self-organized)",
+    "12:30 PM IST — Epson SOW review (Keval Paun, Nishant Tatke)",
+    "02:00 PM IST — Interview Block",
+    "02:30 PM IST — Kagen ADD Daily Connect (Sekshey Bakhshi, Gary, Akhil, Sid Pandey)",
+    "03:00 PM IST — PRISM Demo (Sekshey Bakhshi, Sushain Sharma) — you are organizer; Sekshey confirmed",
+    "04:00 PM IST — Aviva India Internal Review (Dhruv Mahajan, Gary, Prabal, Jaspal @ Webus)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha Mathur, Aditya Gupta)",
+    "09:00 PM IST — US Sales & Pre-Sales Weekly Standup (Gary, Abhishek, Peter)"
   ],
   "suggested_replies": [
-    "Re: Re-aligning strategy for PoCs (Archit) — Archit, agree this needs a sharper playbook for Govt accounts. Let's define a lean PoC framework — I'll set up a session next week. Gary, looping you in for visibility.",
-    "Re: SAP case studies (Samir, Shenzyn) — Hi Samir, thanks for the detailed response. The S/4HANA efficiency story for chemical trading is exactly what our client needs. Let's set up a 30-min call this week — I'll send a slot.",
-    "Re: HCAH x Successive (Dhruv) — Good progress. Please share the draft implementation plan with me before it goes to Rahul — want to align on scope and delivery timelines first."
+    "Re: IQ Line <> Successive Digital (Anurag Tomar) — Anurag, thanks for the signed NDA — counter-signed copy will be with you by EOD today. On revised rates and the August manpower ramp, I'll align internally and revert separately.",
+    "Re: Re-aligning strategy for PoCs (Archit / Gary) — Gary, on it. Archit — let's do a focused 30-min sync this week to define a lean PoC playbook for Government accounts. I'll send a slot. In the meantime, flag any active Govt prospects with urgency so we can fast-track.",
+    "Re: Qualification needed for an RFP (Peter / Abhishek) — OE Wheels looks like a solid fit — auto retail with a defined use-case plays to our strengths. Peter, can you get clarity on who's running the RFP on their end, their timeline, and whether they have budget allocated? That'll help us decide how hard to push."
   ],
   "pending_followups": [
-    "OCR Demo API keys — Sekshey's request to Manish Mall (Jun 24) still open; Siddharth chased Jun 25 with no response; unblock urgently",
-    "ITC Hotels NDA — sent by Sabgun Walia (ITC Hotels) on Apr 13 for signature; legal sign-off still outstanding",
-    "CEAT NDA — revised version from Kiran N (CEAT) received Mar 24; no response or counter visible since",
-    "Stepcart / Footwear Marketplace (Madhav Khurana) — scope feedback received Jun 16; revised proposal not yet sent"
+    "IQ Line NDA counter-signature — Anurag Tomar (IQLine) awaiting signed copy back since Jun 26",
+    "OCR Demo API keys — Manish Mall unresponsive; Siddharth chased Jun 25 with no reply; blocks govt client demo",
+    "ITC Hotels NDA — sent by Sabgun Walia (ITC Hotels) Apr 13 for signature; still outstanding",
+    "Stepcart / Footwear Marketplace (Madhav Khurana) — scope feedback received Jun 16; revised proposal not yet sent",
+    "Odin Insurance Group Medical Cover renewal — Moziez Chamadiya followed up Jun 26; decision pending"
   ],
   "new_documents": [
-    "AI_Customer_Segmentation_Engine_PRD_v1.docx — created Jun 24 by Naman Gupta on Drive (Commerce accelerator track)",
-    "AI_Marketing_Automation_Engine_PRD_v1.docx — created Jun 24 by Naman Gupta on Drive (Commerce accelerator track)",
-    "Kagen ADD Backlog & Queries (Sheets) — updated Jun 24 by Sekshey Bakhshi with client Q&A, bugs, and POC response doc",
-    "Commerce Accelerator Status (Sheets) — updated Jun 25 by Naman Gupta with prototype and marketplace submission tracker",
-    "Sales Call Plan: National Bank of Canada (Doc) — updated Jun 25 by Nidhi Bhardwaj (BANT prep sheet)"
+    "26062026 SOW - Successive and Epson updated 25062026.docx — shared by Nishant Tatke on Drive (Jun 26); review before 12:30 PM meeting",
+    "Adidas <> Successive Digital Next Steps — Gary's follow-up to Anirudh Sharma on post-order revenue leakage (Jun 26; CC: Siddharth, Naman, Naveen)"
   ]
 }
