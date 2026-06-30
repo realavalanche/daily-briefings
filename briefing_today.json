@@ -1,39 +1,42 @@
 {
-  "design_theme": "apple",
+  "design_theme": "linear",
   "urgent": [
-    "Counter-sign IQ Line NDA and return to Anurag Tomar — he sent signed copy Jun 26, awaiting counter-signature; Aug manpower onboarding depends on this",
-    "Reply to Gary re: Govt PoC strategy — Gary explicitly flagged Archit's email: 'Please see how this prospect can be expedited' — needs your response today"
+    "Approve team timesheets before Wednesday 2 PM — PMO reminder outstanding",
+    "IQ Line rate card revision needed — Anurag shared competitor rates in DM; revert before they choose the other vendor",
+    "Tabi Life AI proposal received for Yutoku Yakuhin — review pitch deck and coordinate Successive response with Sekshey/Sushant"
   ],
   "important": [
-    "Review Epson SOW doc (updated Jun 25 by Nishant Tatke) before 12:30 PM meeting today — shared directly to your Drive",
-    "OE Wheels RFP (auto retail, $30M SMB, Sarasota FL) — Peter's lead cc'd to you; Abhishek asking for budget/qualification clarity — needs your steer",
-    "Review retrospective action items from Shahrukh's Jun 26 recap — pipeline gaps and deal closure challenges flagged across BD team",
-    "Adidas follow-up — Gary emailed Anirudh Sharma (Adidas) Jun 26 on post-order revenue leakage and fraud; stay looped for next steps"
+    "Aviva India 5 PM internal review — Jaspal's audit v1 is ready; confirm deck is client-presentable before the call",
+    "Aviva India (Vinay Sharma & Harshit Agrawal) — Dhruv sent a gentle follow-up today; they haven't confirmed slot for heuristic audit walkthrough",
+    "CMM Technology Platform RFP — client (Abishek) is awaiting architecture diagram L1/L2, tech stack, hosting model and scalability details from Abhi",
+    "Catholic.sg progress — Mayank forwarded Sebastian Dunkel's update; review and advise on next steps",
+    "Im Green RFP — proposal nearing completion; client responded with consolidated vendor Q&A; Sekshey leading; confirm submission timeline"
   ],
   "meetings": [
-    "11:00 AM IST — Daily Connect (self-organized)",
-    "12:30 PM IST — Epson SOW review (Keval Paun, Nishant Tatke)",
+    "11:00 AM IST — Daily Connect (recurring)",
+    "12:30 PM IST — Oncquest <> Successive Digital | In-person Connect (Pooja Chatrath, Aariz, Deepak, Dhruv, Gary)",
     "02:00 PM IST — Interview Block",
-    "02:30 PM IST — Kagen ADD Daily Connect (Sekshey Bakhshi, Gary, Akhil, Sid Pandey)",
-    "03:00 PM IST — PRISM Demo (Sekshey Bakhshi, Sushain Sharma) — you are organizer; Sekshey confirmed",
-    "04:00 PM IST — Aviva India Internal Review (Dhruv Mahajan, Gary, Prabal, Jaspal @ Webus)",
-    "05:30 PM IST — Strategy & Solutions Daily Connect (Akanksha Mathur, Aditya Gupta)",
-    "09:00 PM IST — US Sales & Pre-Sales Weekly Standup (Gary, Abhishek, Peter)"
+    "02:30 PM IST — Kagen ADD Daily Connect (Sekshey, Akhil, Sid, Gary)",
+    "04:00 PM IST — Industry Use Cases | Review (Gary, Sekshey, Sid)",
+    "05:00 PM IST — Aviva India Internal Review (Gary, Dhruv, Prabal, Jaspal from WeBus)",
+    "05:30 PM IST — Strategy & Solutions Daily Connect"
   ],
   "suggested_replies": [
-    "Re: IQ Line <> Successive Digital (Anurag Tomar) — Anurag, thanks for the signed NDA — counter-signed copy will be with you by EOD today. On revised rates and the August manpower ramp, I'll align internally and revert separately.",
-    "Re: Re-aligning strategy for PoCs (Archit / Gary) — Gary, on it. Archit — let's do a focused 30-min sync this week to define a lean PoC playbook for Government accounts. I'll send a slot. In the meantime, flag any active Govt prospects with urgency so we can fast-track.",
-    "Re: Qualification needed for an RFP (Peter / Abhishek) — OE Wheels looks like a solid fit — auto retail with a defined use-case plays to our strengths. Peter, can you get clarity on who's running the RFP on their end, their timeline, and whether they have budget allocated? That'll help us decide how hard to push."
+    "Re: IQ Line <> Successive Digital — 'Anurag, acknowledged. We're reviewing the competitive rate and will revert with revised commercials by EOD today. BRD for the greenfield project can be shared directly with Abhi's team — they're ready to begin evaluation.'",
+    "Re: Aviva India x Successive Digital — 'Vinay / Harshit, happy to work around your calendar. Please suggest two slots this week and we'll confirm immediately — looking forward to walking you through the heuristic audit.'",
+    "Re: AI営業支援システムに関するご提案 (Tabi Life) — 'Kyoko-san, thank you for sharing the proposal. We've reviewed the deck and are keen to proceed. Please share your availability for a detailed discussion this week or next.'"
   ],
   "pending_followups": [
-    "IQ Line NDA counter-signature — Anurag Tomar (IQLine) awaiting signed copy back since Jun 26",
-    "OCR Demo API keys — Manish Mall unresponsive; Siddharth chased Jun 25 with no reply; blocks govt client demo",
-    "ITC Hotels NDA — sent by Sabgun Walia (ITC Hotels) Apr 13 for signature; still outstanding",
-    "Stepcart / Footwear Marketplace (Madhav Khurana) — scope feedback received Jun 16; revised proposal not yet sent",
-    "Odin Insurance Group Medical Cover renewal — Moziez Chamadiya followed up Jun 26; decision pending"
+    "IQ Line — BRD for greenfield project awaited from Anurag Tomar; rate card revision pending (competing vendor pressure flagged)",
+    "The Hosteller (Dushyant) — no response since May on ChatGPT Marketplace App and Kagen Voice/Chat Agent; Dhruv has followed up 5+ times",
+    "TravClan (Akshat) — use cases from Ops team awaited since late April; Dhruv following up but no reply",
+    "Im Green (Jayant) — final proposal submission pending; Sekshey leading; confirm deadline with team",
+    "HCAH POC — pilot internal kickoff was yesterday; confirm team allocation and kick off implementation this week"
   ],
   "new_documents": [
-    "26062026 SOW - Successive and Epson updated 25062026.docx — shared by Nishant Tatke on Drive (Jun 26); review before 12:30 PM meeting",
-    "Adidas <> Successive Digital Next Steps — Gary's follow-up to Anirudh Sharma on post-order revenue leakage (Jun 26; CC: Siddharth, Naman, Naveen)"
+    "secure_sphere_capability.pptx — SecureSphere AI platform capability deck shared by Mukesh Sharma (Jun 29)",
+    "Successive_Digital_Location_Platform_Assessment — Indus Green FAMC mapping platform comparison (Google Maps vs MapMyIndia vs ArcGIS) by Visaali S (Jun 29)",
+    "26062026 SOW - Successive and Epson — Epson Commuprint Platform SoW v2 updated by Nishant Tatke (Jun 29)",
+    "Kagen ADD Backlog & Queries — updated spreadsheet with bug fixes and client Q&A by Sekshey Bakhshi"
   ]
 }
